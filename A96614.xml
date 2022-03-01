@@ -1,0 +1,2395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Cottons letter lately printed, examined and ansvvered: by Roger Williams of Providence in New·England.</title>
+            <author>Williams, Roger, 1604?-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 146 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96614</idno>
+            <idno type="STC">Wing W2767</idno>
+            <idno type="STC">Thomason E31_16</idno>
+            <idno type="STC">ESTC R11382</idno>
+            <idno type="EEBO-CITATION">99859010</idno>
+            <idno type="PROQUEST">99859010</idno>
+            <idno type="VID">111071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E31[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Cottons letter lately printed, examined and ansvvered: by Roger Williams of Providence in New·England.</title>
+                  <author>Williams, Roger, 1604?-1683.</author>
+               </titleStmt>
+               <extent>[4], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Imprinted in the yeere 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cotton's reply appended to his "Bloudy tenent, washed." 1647.  Cf. BLC.</note>
+                  <note>Annotation on Thomason copy: the 4 in imprint date is crossed out and altered to 1643; "Feb:5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cotton, John, 1584-1652.</term>
+               <term>Williams, Roger, 1604?-1683.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111071:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r.</hi> Cottons
+LETTER
+Lately Printed,
+EXAMINED
+AND
+ANSVVERED:</p>
+            <p>By <hi>Roger Williams</hi> of <hi>Providence</hi>
+In
+<hi>NEW-ENGLAND.</hi>
+            </p>
+            <p>LONDON,
+Imprinted in the yeere 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111071:2"/>
+            <head>To the Impartiall READER.</head>
+            <p>THis Letter I acknowledge to have received from Mr. <hi>Cot<g ref="char:EOLhyphen"/>ton</hi>
+(whom for his perſonall excellencies I truly honour and
+love.) Yet at ſuch a time of my diſtreſſed wandrings amongſt
+the <hi>Barbarians,</hi> that being deſtitute of food, of cloths, of time I reſer<g ref="char:EOLhyphen"/>ved
+it (though hardly, amidſt ſo many barbarous diſtractions) and
+afterward prepared an Anſwer to be returned.</p>
+            <p>In the Interim,<note place="margin">Mr Cottons reluctancy in himſelfe con<g ref="char:EOLhyphen"/>cerning the way of perſe<g ref="char:EOLhyphen"/>cution.</note> ſome Friends being much grieved, that one, publike<g ref="char:EOLhyphen"/>ly
+acknowledged to be godly and dearely beloved, ſhould yet be ſo ex<g ref="char:EOLhyphen"/>poſed
+to the mercy of an howling Wilderneſſe in Froſt and Snow, <hi>&amp;c.</hi>
+M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Cotton</hi> to take off the edg of Cenſure from himſelf profeſt both
+in ſpeech and writing, that He was no procurer of my ſorrows.</p>
+            <p>Some Letters then paſt between us, in which I proved and expreſt,
+that if I had periſhed in that ſorrowfull Winters flight;<note place="margin">An unmerci<g ref="char:EOLhyphen"/>full ſpeech from a merci<g ref="char:EOLhyphen"/>full man.</note> only the blood
+of Jeſus Chriſt could have waſhed him from the guilt of mine.</p>
+            <p>His finall Anſwer was, had you periſhed, your blood had beene on
+your owne head; it was your ſinne to procure it, and your ſorrow to
+ſuffer it.</p>
+            <p>Here I confeſſe I stopt, and ever ſince ſuppreſt mine Anſwer; waiting
+if it might pleaſe the Father of mercies, more to mollifie and ſoften,
+and render more humane and mercifull, the eare and heart of that
+(otherwiſe) excellent and worthy man.</p>
+            <p>It cannot now, be juſtly offenſive,<note place="margin">Gods wiſedome in the ſeaſon of publiſhing this letter</note> that finding this Letter publike
+(by whoſe procurement I know not) I alſo preſent to the ſame publike
+view, my formerly intended Anſwer.</p>
+            <p>I rejoice in the goodneſſe and wiſdome of him, who is the Father of
+lights and mercies,<note place="margin">Times of en<g ref="char:EOLhyphen"/>quirie after Chriſt</note> in ordering the ſeaſon both of mine owne pre<g ref="char:EOLhyphen"/>ſent
+opportunity of Anſwer: As alſo, and eſpecially of ſuch Proteſta<g ref="char:EOLhyphen"/>tions
+and Reſolutions of ſo many fearing God, to ſeeke what Worſhip
+and Worſhippers are acceptable to him in Ieſus Chriſt.</p>
+            <p>Mire own eares were glad and late Witneſſes of an heavenly Speech
+of one of the moſt eminent of that high Aſſembly of <hi>Parliament;</hi>
+               <note place="margin">A golden ſpeech of a Parliament man.</note>
+               <hi>viz. why ſhould the Labours of any bee ſuppreſt if ſober,
+though never ſo different? We now profeſſe to ſcek God, we
+deſire to ſee light, &amp;c.</hi>
+            </p>
+            <p>I know there is a time when God will not be found,<note place="margin">Times when ſeeking of God comes t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o late.</note> though men ſeek
+him early <hi>Prov.</hi> 1.</p>
+            <p>
+               <pb facs="tcp:111071:3"/>
+There is a time when Prayer and Faſting comes too late, <hi>Jer.</hi> 14.</p>
+            <p>There is a ſeeking of the God of <hi>Iſrael</hi> with a ſtumbling block, ac<g ref="char:EOLhyphen"/>cording
+to which God giveth his <hi>Iſrael</hi> an anſwer, <hi>Ezek.</hi> 13.</p>
+            <p>Lastly, there is a Proud refuſall of the mind of God, returned in
+Anſwer by the Prophet <hi>Jer.</hi> 42.</p>
+            <p>Love bids me hope for bettes things: Gods promiſe aſſures us, that
+his people returning from Captivity,<note place="margin">Whole hearted ſeekers the on<g ref="char:EOLhyphen"/>ly ſeekers of Chriſt Ieſus.</note> ſhall ſeeke him and pray and find
+him, when they ſeek him with their whole heart, <hi>Jer.</hi> 27. And Gods
+Angel comforts thoſe againſt all feares, that ſeeke Ieſus that was Cru<g ref="char:EOLhyphen"/>cified,
+<hi>Mark</hi> 16.</p>
+            <p>Thy ſoule ſo proſper (who ever thou art) Worthy Reader, as with thy
+whole heart thou ſeekeſt that true Lord Ieſus, who is holyneſſe it ſelfe,
+and requires a Spirituall and holy Bride like to himſelfe, the pure and
+ſpotleſſe Lambe.<note place="margin">Chriſt Ieſus whom he ſa<g ref="char:EOLhyphen"/>veth he tea<g ref="char:EOLhyphen"/>cheth,</note> Hee alone as he is able to ſave thee to the utmoſt
+from thy ſins and ſorrowes by his Blood. So hath hee brought his Fa<g ref="char:EOLhyphen"/>thers
+Councell, from his Boſome, and every ſoule is bound (on paine
+of eternall Paines) to attend alone his Lawes and Ordinances, Com<g ref="char:EOLhyphen"/>mands
+and Statutes, <hi>Heb. 7. Acts</hi> 3.</p>
+            <p>That Lord Ieſus,<note place="margin">The true Lord Ieſus ſtudied hnmility and ſelfe-deniall.</note> who purpoſely choſe to deſcend of meane and infe<g ref="char:EOLhyphen"/>riour
+Parents, a Carpenter, <hi>&amp;c.</hi>
+            </p>
+            <p>Who diſdained not to enter this World in a Stable, amongst Beaſts,
+as unworthy the ſociety of Men: Who past through this World with
+the eſteeme of a Mad man, a Deceiver, a Conjurer, a Traytor againſt
+Caeſar, and destitute of an houſe wherein to reſt his head: Who mad
+choice of his firſt and greatest Embaſſadours out of Fiſher-men Tent<g ref="char:EOLhyphen"/>makers,
+<hi>&amp;c.</hi> and at laſt choſe to depart on the ſtage of a pianfull ſhame<g ref="char:EOLhyphen"/>full
+Gibbet.</p>
+            <p>If him thou ſeekeſt in theſe ſearching times, mak'ſt him alone thy
+white and ſoules beloved,<note place="margin">Seekers ef Chriſt are ſure of a gracious anſwere, 2 Theſſ: 1.</note> willing to follow and be like him in doing, in
+ſuffring: although thou find'ſt him not in the reſtauration of his
+Ordinances, according to his firſt Patterne.</p>
+            <p>Yet ſhalt thou ſee him, raigne with him, eternally admire him, and
+enjoy him, when he ſhortly comes in flaming fire to burne up millions of
+ignorant and diſobedient.</p>
+            <closer>
+               <signed>Your moſt Vnworthy Countrey-man
+Roger Williams.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111071:3"/>
+            <head>M<hi rend="sup">r.</hi> Cottons Letter
+Examined and Anſwered.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>Mr. Cotton.</p>
+               <p>
+                  <seg rend="decorInit">B</seg>ELOVED In Chriſt.</p>
+               <p>
+                  <hi>Anſwer.</hi> Though I humbly deſire to ac<g ref="char:EOLhyphen"/>knowledge
+my ſelfe unworthy to be belo<g ref="char:EOLhyphen"/>ved
+and moſt of all unworthy of the name
+of Chriſt,<note place="margin">A monſtrous Paradox, that Gods children ſhould perſe<g ref="char:EOLhyphen"/>cute Gods chil<g ref="char:EOLhyphen"/>dren, and that they that hope to live eternal<g ref="char:EOLhyphen"/>ly together with Chriſt Ieſus in the heavens ſhould not ſuffer each other to live in this common aire together, &amp;c. I am informed it was the Speech of an honourable Knight of the Parlia<g ref="char:EOLhyphen"/>ment: What, Chriſt perſecute Chriſt in New England?</note> and to be beloved for his ſake:
+yet ſince Mr. <hi>Cotton</hi> is pleaſed to uſe ſuch
+an affectionate compellation and teſtimo<g ref="char:EOLhyphen"/>niall
+expreſſion, to one ſo afflicted and per<g ref="char:EOLhyphen"/>ſecuted
+by Himſelfe and others (whom for their perſonall
+worth and godlineſſe I alſo honour and love.) I deſire it may
+be ſeriouſly reviewed by Himſelfe and Them, and all men,
+whether the Lord Jeſus be well pleaſed that one, beloved in
+him, ſhould (for no other cauſe, then ſhall preſently appeare)
+be denyed the common aire to breath in, and a civill cohabi<g ref="char:EOLhyphen"/>tation
+upon the ſame common earth; yea and alſo without
+mercy and humane compasſion be expoſed to winter miſeries
+in a howling Wildernes?</p>
+               <p>And I aske further,<note place="margin">Mr. Cotton ex<g ref="char:EOLhyphen"/>pecting more Light; muſt (according to his way of per<g ref="char:EOLhyphen"/>ſecution) per<g ref="char:EOLhyphen"/>ſecute Chriſt Ieſus if he bring it.</note> Whether (ſince Mr. <hi>Cotton</hi> elſewhere
+profeſſeth to expect farre greater light then yet ſhines) upon
+the ſame grounds and practiſe, if Chriſt Jeſus in any of his
+Servants ſhall be pleaſed to hold forth a further light, Chriſt
+Jeſus himſelfe ſhall finde the Mercy and Humanity of a
+civill and temporall life and being with them?</p>
+               <p>Mr. <hi>Cotton.</hi> Though I have little hope (when I conſider the
+uncircumciſion of mine own lips) that you will hearken to
+<pb n="2" facs="tcp:111071:4"/>
+my voice, who have not hearkned to the body of the whole
+Church of <hi>Chriſt</hi> with you, and the teſtimony and judgement
+of ſo many Elders and Brethren of other Churches! Yet I truſt
+my labour will be accepted of the Lord, and who can tell but
+that he may bleſſe it to you alſo, if (by his help) I endeavour
+to ſhew you the ſandines of thoſe grounds, out of which you
+have baniſhed your ſelf from the fellowſhip of all the Chur<g ref="char:EOLhyphen"/>ches
+in theſe Countries.</p>
+               <p>
+                  <hi>Anſw.</hi> Firſt I acknowledge it an holy Character of an hea<g ref="char:EOLhyphen"/>venly
+Spirit,<note place="margin">Will-worſhip varniſhed over with the glit<g ref="char:EOLhyphen"/>tering ſhew of Humility.</note> to make ingenuous true acknowledgement of an
+uncircumciſed lip: yet that diſcerning Spirit, which God
+graciouſly vouchſafeth to them that tremble at his word,
+ſhall not only find that not only the will worſhips of men may
+be painted and varniſhed over with the glittering ſhew of hu<g ref="char:EOLhyphen"/>mility,<note place="margin">Spirituall pri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e may ſwell, out of the ſence of a mans Hu<g ref="char:EOLhyphen"/>mility.</note>
+                  <hi>Coloſſ.</hi> 2. but alſo Gods deareſt ſervants (eminent for
+humility and meeknes) may yet be troubled with a ſwelling
+of ſpirituall pride out of the very ſence of their humility: It
+pleaſed God to give <hi>Paul</hi> himſelfe preventing phyſick againſt
+this diſtemper, in the midſt of Gods gracious revelation to
+him.<note place="margin">Humility moſt unſeaſonable in ſetting up will-worſhip, or perſecuting others.</note> And what an humble argument doth <hi>David</hi> uſe, when
+himſelf adviſed by <hi>Nathan,</hi> went about an evill work out of an
+holy intention, to wit, a work of will worſhip, in building the
+Temple unbidden? <hi>Behold I dwell in an houſe of cedars, but the
+Arke of God in a tent,</hi> 2 Sam. 7. Humility is never in ſeaſon to
+ſet up ſuperſtition, or to perſecute Gods children.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p>Secondly I obſerve his charge againſt me, for not hearkning
+to a twofold voice of Chriſt: firſt of the whole Church of
+Chriſt with me.</p>
+               <p>Unto which I anſwere, according to my conſcience and
+perſwaſion. I was then charged by Office with the feeding of
+that flock: and when in the apprehenſion of ſome publike
+evils,<note place="margin">Publike ſins the cauſe of publike Cala<g ref="char:EOLhyphen"/>mities, muſt be faithfully diſ<g ref="char:EOLhyphen"/>covered by ſpi<g ref="char:EOLhyphen"/>ritual watch<g ref="char:EOLhyphen"/>men.</note> the whole Countrey profeſt to humble it ſelfe and ſeek
+God, I endeavoured (as a faithfull Watchman on the walls to
+ſound the Trumpet and give the Alarum: and upon a Faſt
+day, in faithfullnes and uprightneſſe (as then and ſtill I am
+perſwaded) I diſcovered 11 publike ſins, for which I beleeved
+(and doe) it pleaſed God to inflict, and further to threaten
+publike calamities. Moſt of which <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (if not all) that Church
+then ſeemed to aſſent unto: untill afterward in my troubles
+<pb n="3" facs="tcp:111071:4"/>
+the greater part of that Church, was ſwayed and bowed (whe<g ref="char:EOLhyphen"/>ther
+for feare of perſecution or otherwiſe) to ſay and practiſe
+what to my knowledge, with ſignes and groans many of them
+mourned under.</p>
+               <p>I know the Church of <hi>Coloſſe</hi> muſt ſay to <hi>Archippus,</hi>
+                  <note place="margin">Coloſs<g ref="char:punc">▪</g> 4.</note> 
+                  <hi>Take
+heed to thy Miniſtry,</hi>
+                  <note place="margin">Faithfullnes to God and Man (though for preſent Cenſu<g ref="char:EOLhyphen"/>red) will give rejoycing in day of Death and judgement</note> &amp;c, which he may negligently and proudly
+refuſe to hearken to: But let my caſe be conſidered, and the
+word of the Lord examined, and the difference of my caſe
+will ſhine forth, and my faithfullnes and uprightnes to God
+and the ſoules of that people will witneſſe for me, when my
+ſoule comes to <hi>Hezechiahs</hi> caſe on his death bed, and in that
+great day approaching.</p>
+               <p>For my not hearkning to the ſecond voice, the teſtimony of
+ſo many Elders and Brethren of other Churches (becauſe I
+truely eſteem and honour the perſons of which the New-Engliſh
+Churches are conſtituted.)<note place="margin">The Popiſh ar<g ref="char:EOLhyphen"/>gument from Multitudes.</note> I will not anſwere the ar<g ref="char:EOLhyphen"/>gument
+of numbers and multitudes againſt One, as we uſe to
+anſwere the Popiſh univerſalitie, that God ſomtimes ſtirs up
+one <hi>Elijah</hi> againſt 800. of <hi>Baals</hi> Prieſts, one <hi>Micaiah</hi> againſt
+400. of <hi>Ahabs</hi> Prophets; one <hi>Athanaſius</hi> againſt many hun<g ref="char:EOLhyphen"/>dreth
+of Arrian Biſhops; one <hi>Iohn Hus</hi> againſt the whole
+Councel of <hi>Conſtance; Luther</hi> and the 2 Witneſſes againſt many
+thouſands &amp;c.<note place="margin">David and the Princes and 30 thouſand of Iſrael, a type of Gods beſt ſervants refor<g ref="char:EOLhyphen"/>ming, yet not after the due Order.</note> Yet this I may truly ſay, that <hi>David</hi> himſelf
+and the Princes of <hi>Iſrael</hi> and 30 thouſand <hi>Iſrael,</hi> carrying up
+the Arke, were not to be hearkned to nor followed in their (as
+I may ſay) holy rejoycings and Triumphings, the due Order
+of the Lord, yet being wanting to their holy intentions and
+affections, and the Lord at laſt ſending in a ſad ſtop and breach
+of <hi>Vzzah,</hi> amongſt them (<hi>Perez Vzzah</hi>) as he hath ever yet
+done, and will doe in all the Reformations that have been
+hitherto made by his <hi>Davids,</hi> which are not after the due
+Order. To which purpoſe, it is maintained by the Papiſts
+themſelves,<note place="margin">An excellent confeſſion of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Papiſts concerning Scripture.</note> and by their Councels that Scripture only muſt
+be heard: yea one Scripture in the mouth of one ſimple Me<g ref="char:EOLhyphen"/>channick
+before the whole Councel. By that only do I deſire
+to ſtand or fall in triall or judgement: <hi>For all fleſh is graſſe, and
+the beautie of fleſh,</hi> (the moſt wiſeſt, holieſt, learnedſt) <hi>is but the
+flowre or beautie of graſſe, only the word of Jehovah ſtandeth faſt for
+ever.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="4" facs="tcp:111071:5"/>
+               <head>CHAP. III.</head>
+               <p>Thirdly Mr. <hi>Cotton</hi> endeavoureth to diſcover the ſandines
+of thoſe grounds out of which (as he ſaith) I have baniſhed my
+ſelfe<g ref="char:punc">▪</g> &amp;c.</p>
+               <p>I anſwere, I queſtion not his holy and loving intentions and
+affections,<note place="margin">Good intenti<g ref="char:EOLhyphen"/>ons and affe<g ref="char:EOLhyphen"/>ctions in Gods people, accepte with God, when their in<g ref="char:EOLhyphen"/>devours periſh and burn like ſtubble, &amp;c.</note> and that my grounds ſeem ſandie to himſelfe and
+others. Thoſe intentions and affections may be accepted (as
+his perſon) with the Lord, as <hi>David</hi> of his deſires to build the
+Lord a Temple, though on ſandy grounds. Yet Mr. <hi>Cottons</hi>
+endeavours to prove the firm rock of the truth of Jeſus to
+be the weak and uncertain ſand of mans invention thoſe ſhall
+periſh and burn like hay or ſtubble. The rockie ſtrength of
+thoſe grounds ſhall more appeare in the Lords ſeaſon, and
+himſelf may yet confeſſe ſo much, as ſince he came into New
+<hi>England</hi> he hath confeſt the ſandines of the grounds of many
+of his practiſes in which he walked in Old <hi>England,</hi>
+                  <note place="margin">Many grounds ſeemed ſandie to Mr. Cotton in Old Eng<g ref="char:EOLhyphen"/>land, which now he confeſ<g ref="char:EOLhyphen"/>ſeth to be rockie.</note> and the
+rockineſſe of their grounds that witneſſed againſt them and
+himſelf, in thoſe practiſes, though for that time their grounds
+ſeemed ſandie to him.</p>
+               <p>When my ſelfe heretofore (through the mercy of the moſt
+high diſcovered to himſelf and othereminent ſervants of <hi>God,</hi>
+my grounds againſt their uſing of the Common Prayer; my
+grounds ſeemed ſandie to them<g ref="char:punc">▪</g> which ſince in New <hi>England</hi>
+Mr. <hi>Cotton</hi> hath acknowledged rockie,<note place="margin">Mr. Cotton formerly per<g ref="char:EOLhyphen"/>ſwaded to pra<g ref="char:EOLhyphen"/>ctiſe Common Prayer: but ſince hath writt'n againſt it.</note> and hath ſeen cauſe ſo to
+publiſh to the world in his Diſcourſe to Mr. <hi>Ball,</hi> againſt ſet
+Forms of Prayer.</p>
+               <p>But becauſe the Reader may aske both Mr. <hi>Cotton</hi> and me,
+what were the grounds of ſuch a ſentence of Baniſhment a<g ref="char:EOLhyphen"/>gainſt
+me, which are here called ſandie, I ſhall relate in briefe
+what thoſe grounds were, ſome whereof he is pleaſed to diſ<g ref="char:EOLhyphen"/>cuſſe
+in this Letter, and others of them not to mention.</p>
+               <p>After my publike triall and anſwers at the generall Court,
+one of the moſt eminent Magiſtrates (whoſe name and ſpeech
+may by others be remembred) ſtood up and ſpake:</p>
+               <p>Mr. <hi>Williams</hi> (ſaid he) holds forth theſe 4. particulars;<note place="margin">The 4 particu<g ref="char:EOLhyphen"/>lar Grounds of my Sentence of Baniſhment.</note>
+               </p>
+               <p>Firſt, That we have not our Land by Pattent from the
+King, but that the Natives are the true owners of it, and that
+we ought to repent of ſuch a receiving it by Pattent.</p>
+               <p>Secondly, That it is not lawfull to call a wicked perſon to
+Sweare, to Pray, as being actions of Gods Worſhip.</p>
+               <p>
+                  <pb n="5" facs="tcp:111071:5"/>
+Thirdly, That it is not lawfull to heare any of the Mini<g ref="char:EOLhyphen"/>ſters
+of the Pariſh Aſſemblies in <hi>England.</hi>
+               </p>
+               <p>Fourthly, That the Civill Magiſtrates power extends only
+to the Bodies and Goods, and outward ſtate of men, <hi>&amp;c.</hi>
+               </p>
+               <p>I acknowledge the particulars were rightly ſumm'd up, and
+I alſo hope, that, as I then maintained the Rockie ſtrength of
+them to my own &amp; other conſciences ſatisfaction, ſo (through
+the Lords asſiſtance) I ſhall be ready for the ſame grounds, not
+only to be bound and baniſhed, but to die alſo, in New <hi>England,</hi>
+as for moſt holy Truths of God in Chriſt Jeſus.</p>
+               <p>Yea but (ſaith hee) upon thoſe grounds you baniſhed your
+ſelfe from the ſociety of the Churches in theſe countries.</p>
+               <p>I anſwer, if Mr. <hi>Cotton</hi> mean my owne voluntary withdraw<g ref="char:EOLhyphen"/>ing
+from thoſe Churches reſolved to continue in thoſe evils,
+and perſecuting the witneſſes of the Lord prefenting light un<g ref="char:EOLhyphen"/>to
+them,<note place="margin">Chriſt Ieſus ſpeaketh and ſuffereth in his witneſſes.</note> I confeſſe it was mine owne voluntary act; yea, I
+hope the act of the Lord Jeſus ſounding forth in me (a poore
+deſpiſed Rams horn) the blaſt which ſhall in his owne holy
+ſeaſon caſt down the ſtrength and confidence of thoſe inventi<g ref="char:EOLhyphen"/>ons
+of men in the worſhipping of the true and living God.
+And laſtly, his act in inabling me to be faithfull in any mea<g ref="char:EOLhyphen"/>ſure
+to ſuffer ſuch great and mighty trials for his names ſake.
+But if by baniſhing my ſelfe he intend the act of civill baniſh<g ref="char:EOLhyphen"/>ment
+from their common earth and aire,<note place="margin">The Dragons language in a Lambs lip.</note> I then obſerve with
+griefe the language of the Dragon in a lambs lip. Among o<g ref="char:EOLhyphen"/>ther
+expreſsions of the Dragon are not theſe common to the
+witneſſes of the Lord Jeſus re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t and torne by his perſecuti<g ref="char:EOLhyphen"/>ons?<note place="margin">Gods children perſecuted are charged by their enemies to be the au<g ref="char:EOLhyphen"/>thors of their own perſecu<g ref="char:EOLhyphen"/>tion.</note>
+Goe now, ſay you are perſecuted, you are perſecuted
+for Chriſt ſuffer for your conſcience: No, it is your ſchiſme,
+hereſie, obſtinacie, the Divill hath deceived thee, thou haſt
+juſtly brought this upon thee, thou haſt baniſhed thy ſelfe,
+&amp;c. Inſtances are abundant in ſo many bookes of Martyrs,
+and the experience of all men, and therefore I ſpare to recite
+in ſo ſhort a treatiſe.</p>
+               <p>Secondly, if he mean this civill act of baniſhing, why ſhould
+he call a civill ſentence from the civill State, within a few
+weeks execution in ſo ſharp a time of <hi>New Englands</hi> cold.<note place="margin">A Nationall Church the ſilent Com<g ref="char:EOLhyphen"/>mon weale, or or world, ſi<g ref="char:EOLhyphen"/>lently confeſt by Mr. Cotton to be all one.</note> Why
+ſhould he call this a baniſhment from the Churches, except
+he ſilently confeſſe, that the frame or conſtitution of their
+Churches is but implicitly National (which yet they profeſſe
+<pb n="6" facs="tcp:111071:6"/>
+againſt) for otherwiſe why was I not yet permitted to live in
+the world, or Common-weale, except for this reaſon, that the
+Common weale and Church is yet but one, and hee that is
+baniſhed from the one, muſt neceſſarily bee baniſhed from the
+other alſo.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <p>Mr. <hi>Cotton.</hi> Let not any prejudice againſt my perſon, I be<g ref="char:EOLhyphen"/>ſeech
+you, foreſtall either your affection or judgement, as if I
+had haſted forward the ſentence of your civill baniſhment;
+for what was done by the Magiſtrates in that kind, was neither
+done by my counſell nor conſent.</p>
+               <p>
+                  <hi>Anſw.</hi> Although I deſire to heare the voyce of God from a
+ſtranger,<note place="margin">Perſecuters of mens bodies ſeldome or never do th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe mens ſoules good.</note> an equall, an inferiour, yea an enemy; yet I obſerve
+how this excellent man cannot but confeſſe how hard it is
+for any man to doe good to ſpeak effectually to the ſoule or
+conſcience of any whoſe body he afflicts and perſecutes, and
+that onely for their ſoule and conſcience ſake.<note place="margin">An excellent obſervation of a worthy Parliament man.</note> Hence excel<g ref="char:EOLhyphen"/>lent
+was the obſervation of a worthy Gentleman in the Par<g ref="char:EOLhyphen"/>liament
+againſt the Biſhops, viz. That the Biſhops were farre
+from the practice of the Lord Jeſus, who together with his
+word preached to the ſoules of men, ſhewed their bodies ſo
+much mercie and loving kindneſſe: whereas the Biſhops on
+the contrary perſecute, <hi>&amp;c.</hi>
+               </p>
+               <p>Now to the ground from whence my prejudice might ariſe,
+he profeſſeth my baniſhment proceeded not with his counſell
+or conſent.<note place="margin">Gods children are not ſo free in perſecuting Gods children, as perſecutors, whoſe profeſ<g ref="char:EOLhyphen"/>ſed nature &amp; trade it is.</note> I anſwer, I doubt not but that what Mr. <hi>Cotton</hi>
+and others did in procuring my ſorrowes, was not without
+ſome regret and reluctancie of conſcience and affection (as
+like it is that <hi>David</hi> could not procure <hi>Vriiahs</hi> death, nor <hi>Aſa</hi>
+impriſon the Prophet with a quiet and free conſcience.) Yet
+to the particular that Mr. <hi>Cotton</hi> conſented not, what need he
+being not one of the civill Court? But that hee councelled it
+(and ſo conſented,) beſide what other proofe I might pro<g ref="char:EOLhyphen"/>duce,
+and what himſelfe here under expreſſeth, I ſhall pro<g ref="char:EOLhyphen"/>duce
+a double and unanſwerable teſtimony.</p>
+               <p>Firſt,<note place="margin">M. Cotton by teaching perſecution cannot but conſent to it, &amp;c.</note> hee publickly taught, and teacheth (except lately
+Chriſt Jeſus hath taught him better) that body-killing, ſoule-killing,
+and State-killing doctrine of not permitting, but per<g ref="char:EOLhyphen"/>ſecuting
+all other conſciences and wayes of worſhip but his
+own in the civill State, and ſo conſequently in the whole
+<pb n="7" facs="tcp:111071:6"/>
+world, if the power or Empire thereof were in his hand.</p>
+               <p>Secondly,<note place="margin">Mr. Cotton privatly ſatisfied the conſciences of ſome that queſtioned, Whether per<g ref="char:EOLhyphen"/>ſecution for conſcience were lawfull.</note> as at that ſentence divers worthy Gentlemen
+durſt not concurre with the reſt in ſuch a courſe, ſo ſome that
+did conſent, have ſolemnly teſtified, and with teares, ſince to
+my ſelfe confeſſed, that they could not in their ſoules have
+been brought to have conſented to the ſentence, had not Mr.
+<hi>Cotton</hi> in private given them advice and counſell, proving it
+juſt and warrantable to their conſciences.</p>
+               <p>I deſire to bee as charitable as charity would have me, and
+therfore would hope that either his memory faild him, or
+that elſe he meant that in the very time of ſentence paſsing
+he neither counſelled nor conſented (as hee hath ſince ſaid,
+that he withdrew himſelfe and went out from the reſt) pro<g ref="char:EOLhyphen"/>bably
+out of that reluctation which before I mentioned; and
+yet if ſo, I cannot reconcile his owne expreſsion: for thus hee
+goes on.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <p>Mr. <hi>Cotton.</hi> Although I dare not deny the ſentence paſſed
+to be righteous in the eyes of God, who hath ſaid, that <hi>he that
+with-holdeth the corne</hi> (which is the ſtaffe of life) <hi>from the people,
+the multitude ſhall curſe him,</hi> Prov. 11. 26. how much more ſhall
+they ſeparate ſuch from them, as doe withold and ſeperate
+them from the ordinances<g ref="char:punc">▪</g> or the ordinances from them
+(which are in Chriſt the bread of life.)</p>
+               <p>
+                  <hi>Anſw.</hi>
+                  <note place="margin">Pro. 11. 26.</note> I deſire to informe the Reader why it pleaſeth Mr.
+<hi>Cotton</hi> to produce this Scripture.<note place="margin">The Scripture produced by Mr. Cotton to prove my baniſhment lawfull, diſ<g ref="char:EOLhyphen"/>cuſſed.</note> One of our Diſputes was con<g ref="char:EOLhyphen"/>cerning
+the true Miniſtery appointed by the Lord Jeſus. A<g ref="char:EOLhyphen"/>nother
+was concerning the fitneſſe and qualification of ſuch
+perſons as have right (according to the rules of the Goſpel)
+to chooſe and enjoy ſuch a true Miniſtery of the Lord Jeſus.
+Hence becauſe I profeſſed, and doe, againſt the office of any
+miniſtery but ſuch as the Lord Jeſus appointeth, this Scrip<g ref="char:EOLhyphen"/>ture
+is produced againſt me.</p>
+               <p>Secondly, let this be obſerved for ſatisfaction to many, who
+enquire into the cauſe of my ſufferings,<note place="margin">Mr. Cotton ſatisfies all men concer<g ref="char:EOLhyphen"/>ning the chief cauſe of my baniſhment.</note> that it pleaſeth Mr.
+<hi>Cotton</hi> onely to produce this Scripture for juſtifying the ſen<g ref="char:EOLhyphen"/>tence
+as righteous in the eyes of God, implying what our chief
+difference was, and conſequently what it was for which I
+chiefly ſuffered, to wit, concerning the true Miniſtry of
+Chriſt Jeſus. But to the Scripture, let the people curſe ſuch
+<pb n="8" facs="tcp:111071:7"/>
+as hoord up corporall or ſpirituall corn;<note place="margin">The word of the L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd is the ſouls corn, yet muſt it be diſpenſed ac<g ref="char:EOLhyphen"/>cording to the word of the Lord.</note> and let thoſe be bleſ<g ref="char:EOLhyphen"/>ſed
+that ſell it: will it therefore follow, that either the one or
+the other may lawfully bee ſold or bought but with the good
+will, conſent and authority of the true owner?</p>
+               <p>Doth not even the common civill Market abhorre and
+curſe that man, who carries to market and throws about good
+corn, againſt the owners mind and expreſſe command, who yet
+is willing and deſirous it ſhould bee ſold plenteouſly, if with
+his conſent, according to his order, and to his honeſt and rea<g ref="char:EOLhyphen"/>ſonable
+advantage? This is the caſe of the true and falſe Mi<g ref="char:EOLhyphen"/>niſtery.<note place="margin">To ſome parts the Apoſtles were forbid<g ref="char:EOLhyphen"/>den to preach, and from o<g ref="char:EOLhyphen"/>thers to de<g ref="char:EOLhyphen"/>part ſhaking off the duſt, &amp;c.</note>
+Far bee it from my ſoules thought to ſtop the ſweet
+ſtreams of the water of life, from flowing to refreſh the thir<g ref="char:EOLhyphen"/>ſty,
+or the bread of life from feeding hungry ſoules: And yet
+I would not, and the Lord Ieſus would not that one drop
+or one crum, or grain ſhould be unlawfully, diſorderly, or
+prodigally diſpoſed of: for, from the ſcorners, contradicters,
+deſpiſers, perſecuters, <hi>&amp;c.</hi> the Apoſtles meſſengers of the Lord
+Ieſus, were to turne and to ſhake off the duſt of their feet: yea,
+it pleaſed the Spirit of the Lord to forbid the Apoſtles to
+preach at all to ſome places, at ſome times: ſo that the whole
+diſpoſe of this ſpirituall corn, for the perſons ſelling, their
+qualifications,<note place="margin">All the Lords corn muſt bee ſold according to the Lords ordinance.</note> commiſsions or callings, the quantities and
+qualities of the corne, the price for which, the perſons to
+whom, the place where, and time when the great Lord of the
+harveſt muſt expreſſe his holy will and pleaſure, which muſt
+humbly and faithfully be attended on.</p>
+               <p>In which regard Mr. <hi>Cotton</hi> deals moſt partially: for would
+Mr. <hi>Cotton</hi> himſelf have preached in Old, or will hee in New
+<hi>England</hi> with ſubmiſsion but to ſome few ceremonies, as the
+ſelling of this ſpirituall corn in a white Coat, a Surplice?
+Did hee not rather chooſe (which I mention to the Lords
+and Mr. <hi>Cottons</hi> honour) to have ſhut up his ſacks mouth,<note place="margin">Mr. Cotton himſelf choo<g ref="char:EOLhyphen"/>ſing rather to ſell no ſpiri<g ref="char:EOLhyphen"/>tuall corn, then <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to ſome cere<g ref="char:EOLhyphen"/>monies</note> to
+have been ſilenced (as they call it) and impriſoned, then to
+ſel that heavenly corn otherwiſe then as he was perſwaded the
+Lord appointed? yea hath hee not in <hi>New England</hi> refuſed to
+admit the children of godly parents to baptiſm, or the parents
+themſelves unto the fellowſhip of the Supper, untill they
+came into that order which he conceived was the Order of
+the Lords appointing?</p>
+               <p>Againe (to deſcend to humane courſes) doe not all civill
+<pb n="9" facs="tcp:111071:7"/>
+men throughout the world,<note place="margin">In civil thing nothing law<g ref="char:EOLhyphen"/>full but what is according to law and order.</note> forbid all building, planting, mer<g ref="char:EOLhyphen"/>chandizing,
+marrying, execution of Juſtice; yea, all actions of
+peace or warre, but by a true and right Commiſsion, and in a
+right Order? Is it not, in this preſent ſtorm of <hi>Englands</hi> ſor<g ref="char:EOLhyphen"/>rows
+one of the greateſt Quaeries in all the Kingdom, who are
+the true Officers,<note place="margin">In England now not per<g ref="char:EOLhyphen"/>ſons fit, but alſo truly au<g ref="char:EOLhyphen"/>thorized, are true officers.</note> true Commanders, true Juſtices, true Com<g ref="char:EOLhyphen"/>miſſioners;
+which is the true Seale? And doubtles as Truth
+is but One, ſo but the one ſort is True, and ought to be ſub<g ref="char:EOLhyphen"/>mitted
+to, and the contrary reſiſted; although it ſhould be
+granted that the Officers queſtioned and their actions were
+noble, excellent and beyond exception.</p>
+               <p>I judge it not here ſeaſonable to entertaine the diſpute of
+the true power and call of Chriſts Miniſterie: I ſhall only
+adde a word to this Scripture, as it is brought to prove a righ<g ref="char:EOLhyphen"/>teous
+ſentence of Baniſhment on my ſelfe or any that plead
+againſt a falſe office of Miniſtrie.<note place="margin">The curſe of death in Iſra<g ref="char:EOLhyphen"/>el of old, is ſpirituall death, and ſpirituall cut<g ref="char:EOLhyphen"/>ting off in the Church of Chriſt, and Chriſtian Iſ<g ref="char:EOLhyphen"/>rael now.</note> 'Tis true in the Nationall
+Church of <hi>Iſrael</hi> (the then only Church and Nation of God)
+he that did ought preſumptuouſly was to be accurſed and to
+be put to death, <hi>Deut</hi> 15. a figure of the ſpirituall putting to
+death an obſtinate ſinner in the Church of Chriſt, who refu<g ref="char:EOLhyphen"/>ſing
+to heare the voice of Chriſt, is to be cut off from Chriſt
+and Chriſtians, and to be eſteemed as an Heathen, that is, a
+Gentile or Publican <hi>Math.</hi> 18. Hence conſequently the not
+ſelling, or the withholding of Corne preſumptuouſly was
+Death in <hi>Iſrael:</hi> But Mr. <hi>Cotton</hi> cannot prove that every wil<g ref="char:EOLhyphen"/>full
+withholding of Corne,<note place="margin">Such as are excellently fitted to ſell the ſpiritual c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rne of the word of the Lord, and yet find not their call to the mi<g ref="char:EOLhyphen"/>niſtry, are not to bee put to death or ba<g ref="char:EOLhyphen"/>niſhed.</note> in all or any State in the world,
+and that in time of plenty, is death: for as for Baniſhment, we
+never heare of any ſuch courſe in <hi>Iſrael.</hi> And ſecondly, leaſt
+of all can he prove, that in all civill States of the world, that
+man that pleadeth againſt a falſe Miniſtrie, or that being <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble
+to preach Chriſt and doubting of the true way of the M<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtrie
+ſince the Apoſtacie of Antichriſt dares not pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctiſe a Mi<g ref="char:EOLhyphen"/>niſtrie.
+Or that many excellent and worthy Gentlemen,
+Lawyers, Phyſitians and others (as well guifted in the know<g ref="char:EOLhyphen"/>ledge
+of the Scripture, and furniſhed with the gifts of tongues
+and utterance, as moſt that profeſſe the Miniſtry, and yet are
+not perſwaded to ſell ſpirituall corne; as queſtioning their true
+Calling and Commiſſion. I ſay, Mr. <hi>Cotton</hi> doth not, nor will
+he ever prove that theſe or any of theſe ought to be put to
+Death or Baniſhment in every Land or Countrey. The ſel<g ref="char:EOLhyphen"/>ling
+<pb n="10" facs="tcp:111071:8"/>
+or withholding of ſpirituall corne,<note place="margin">Spirituall of<g ref="char:EOLhyphen"/>fences are only liable to a ſpiritual cen<g ref="char:EOLhyphen"/>ſure.</note> are both of a ſpirituall
+nature, and therfore muſt neceſſarily in a true parallell beare
+relation to a ſpiritual curſe. <hi>Paul</hi> wiſhing himſelfe accurſed
+from Chriſt for his Countrey mens ſake (<hi>Rom.</hi> 9.) he ſpake
+not of any temporall death or baniſhment. Yet neerer, being
+fitly qualified and truly called by Chriſt to the Miniſtrie,<note place="margin">Paul not to be baniſhed or kild by Nero for not prea<g ref="char:EOLhyphen"/>ching the Goſpel.</note> he
+cries out (1 <hi>Cor. 9.) Wee to me if I preach not the Goſpel:</hi> yet did
+not <hi>Paul</hi> intend, that therfore the Roman <hi>Nero,</hi> or any ſub<g ref="char:EOLhyphen"/>ordinate
+power under him in <hi>Corinth,</hi> ſhould have either ba<g ref="char:EOLhyphen"/>niſhed
+or put <hi>Paul</hi> to death having committed nothing againſt
+the civill State worthy of ſuch a civill puniſhment: yea and
+Mr. <hi>Cotton</hi> himſelfe ſeemeth to queſtion the ſandines of ſuch
+a ground to warrant ſuch proceedings, for thus he goes on.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <p>Mr. <hi>Cotton.</hi> And yet it may be they paſſed that ſentence
+againſt you, not upon that ground: but for ought I know, for
+your other corrupt Doctrines, which tend to the diſturbance
+both of civill and holy peace, as may appeare by that anſwere
+which was ſent to the Brethren of the Church of <hi>Salem</hi> and
+your ſelfe.<note place="margin">M. Cotton himſelfe ig<g ref="char:EOLhyphen"/>norant of the cauſe of my ſufferings.</note>
+               </p>
+               <p>I anſwere, it is no wonder that ſo many having bin deman<g ref="char:EOLhyphen"/>ded
+the cauſe of my ſuffrings have anſwered, that they could
+not tell for what, ſince Mr. <hi>Cotton</hi> himſelfe knows not diſtinct<g ref="char:EOLhyphen"/>ly
+what cauſe to aſſigne: but ſaith, it may be they paſſed not
+that ſentence on that ground, <hi>&amp;c.</hi> Oh, where was the waking
+care of ſo excellent &amp; worthy a man, to ſee his brother and be<g ref="char:EOLhyphen"/>loved
+in Chriſt ſo afflicted, he knows not diſtinctly for what.</p>
+               <p>He alleadgeth a Scripture, to prove the Sentence righteous,
+and yet concludeth it may be it was not for that, but for other
+corrupt Doctrines which he nameth not, nor any Scripture
+to prove them corrupt, or the ſentence righteous for that
+cauſe. O that it may pleaſe the Father of lights to awaken
+both himſelf and other of my honoured Countreymen, to ſee
+how though their hearts wake (in reſpect of perſonall grace
+and life of Jeſus) yet they ſleep, inſenſible of much concerning
+the purity of the Lords worſhip, or the ſorrows of ſuch whom
+they ſtile Brethren, and beloved in Chriſt, afflicted by them.</p>
+               <p>But though he name not theſe corrupt Doctrines, a little
+before I have, as they were publikely ſummed up and charged
+upon me, and yet none of them tending to the breach of holy
+<pb n="11" facs="tcp:111071:8"/>
+or civill peace,<note place="margin">Civill peace and civil Magiſtracie bleſſed ordi<g ref="char:EOLhyphen"/>nances of God,</note> of which I have ever deſired to be unfainedly
+tender, acknowledging the Ordinance of Magiſtracie to be
+properly and adequatly fitted by God, to preſerve the civill
+State in civill peace and order: as he hath alſo appointed a
+ſpirituall Government and Governours in matters pertaining
+to his worſhip and the conſciences of men, both which Go<g ref="char:EOLhyphen"/>vernments,
+Governours, Laws, Offences, Puniſhments, are
+Eſſentially diſtinct, and the confounding of them brings all
+the world into Combuſtion. He addes:</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <p>Mr. <hi>Cotton.</hi> And to ſpeak freely what I think, were my ſoule
+in your ſoules ſtead, I ſhould think it a worke of mercy of God
+to Baniſh me from the civill ſocietie of ſuch a Common<g ref="char:EOLhyphen"/>weale,
+where I could not enjoy holy fellowſhip with any
+Church of God amongſt them without ſin: What ſhould the
+daughter of <hi>Sion</hi> do in <hi>Babel,</hi> why ſhould ſhe not haſten to flee
+from thence?</p>
+               <p>
+                  <hi>Anſ.</hi> Love bids me hope that Mr. <hi>Cotton</hi> here intended me
+a Cordiall, to revive me in my ſorrows: yet if the ingredients
+be examined, there will appeare no leſſe, then Diſhonour to
+the name of God, Danger to every civill State, a miſerable
+Comfort to my ſelfe, and contradiction within it ſelfe.</p>
+               <p>For the laſt firſt.<note place="margin">A land cannot be Babel, and yet a Church of Chriſt.</note> If he call the Land <hi>Babel</hi> myſtically (which
+he muſt needs doe or els ſpeak not to the point, how can it be
+<hi>Babel,</hi> and yet the Church of Chriſt alſo?</p>
+               <p>Secondly, it is a dangerous Doctrine to affirme it a miſery
+to live in that State where a Chriſtian cannot enjoy the fel<g ref="char:EOLhyphen"/>lowſhip
+of the publike Churches of God without ſinne. Do
+we not know many famous ſtates wherin is known no Church
+of Jeſus Chriſt?<note place="margin">Famous civill States where yet no ſound of Ieſus Chriſt.</note> Did not God command his people to pray
+for the peace of the materiall Citie of <hi>Babel (Jer.</hi> 27.) and to
+ſeek the peace of it though no Church of God in <hi>Babel<g ref="char:punc">▪</g>
+                  </hi> in the
+form and Order of it? Or did <hi>Sodome, Aegypt, Babel,</hi> ſignifie
+material <hi>Sodome,</hi> Egypt, <hi>Babel, Rev.</hi> 11. 8. &amp; 18. 4?</p>
+               <p>There was a true Church of Jeſus Chriſt in materiall <hi>Babel,
+(1 Pet.</hi> 5. 13.)<note place="margin">A true church of Ieſus Chriſt in materiall Babylon.</note> Was it then a mercy for all the inhabitants of
+<hi>Babel,</hi> to have been baniſhed, whom the Church of Jeſus
+Chriſt durſt not to have received to holy fellowſhip? Or
+was it a mercy for any perſon to have been baniſhed the City,
+and driven to the miſeries of a barbarous wildernes, him and
+<pb n="12" facs="tcp:111071:9"/>
+his, if ſome barre had layn upon his conſcience, that he could
+not have enjoyed fellowſhip with the true Church of Chriſt?</p>
+               <p>Thirdly, for my ſelfe, I acknowledge it a bleſſed gift of God
+to be inabled to ſuffer,<note place="margin">The mercy of a civill State diſtinct from mercies of a ſpirituall na<g ref="char:EOLhyphen"/>ture.</note> and ſo to be baniſhed for his Names
+ſake: and yet I doubt not to affirm, that Mr. <hi>Cotton</hi> himſelfe
+would have counted it a mercy, if he might have practiſed in
+Old England what now he doth in New, with the injoyment
+of the civill peace, ſafetie and protection of the State.</p>
+               <p>Or ſhould he diſſent from the New Engliſh Churches, and
+joyn in worſhip with ſome other (as ſome few yeares ſince he
+was upon the point to doe in a ſeparation from the Churches
+there as legall) would he count it a mercy to be pluckt up by
+the roots,<note place="margin">Old and New England for the Countries and civill go<g ref="char:EOLhyphen"/>vernment in<g ref="char:EOLhyphen"/>comparable.</note> him and his, and to endure the loſſes, diſtractions,
+miſeries that doe attend ſuch a condition. The truth is, both
+the mother and the Daughter Old and New England, for the
+Countries and Governments are Lands and Governments in<g ref="char:EOLhyphen"/>comparable:
+And might it pleaſe God to perſwade the mo<g ref="char:EOLhyphen"/>ther
+to permit the inhabitants of New England her daughter
+to enjoy their conſcience to God, after a particular Con<g ref="char:EOLhyphen"/>gregationall
+way, and to perſwade the daughter to permit
+the inhabitants of the mother Old England to walke
+there after their conſcience of a Pariſhionall way, (which yet
+neither mother nor daughter is perſwaded to permit.) I con<g ref="char:EOLhyphen"/>ceive
+Mr. <hi>Cotton</hi> himſelfe, were he ſeated in Old England a<g ref="char:EOLhyphen"/>gaine,
+would not count it a mercy to be baniſhed from the
+civil ſtate.</p>
+               <p>And therfore (laſtly) as he caſts diſhonour upon the name
+of God,<note place="margin">Mr. Cotton not having felt the miſe<g ref="char:EOLhyphen"/>ries of others, can bee no equall judge of them.</note> to make him the Author of ſuch cruell mercy, ſo had
+his ſoule been in my ſoules caſe, expoſed to the miſeries<g ref="char:punc">▪</g> po<g ref="char:EOLhyphen"/>verties,
+neceſſities, wants debts, hardſhips of Sea and Land, in a
+baniſhed condition; he would I preſume, reach forth a more
+mercifull cordiall to the afflicted. But he that is deſpiſed and
+afflicted is like a lamp deſpiſed in the eyes of him that is at
+eaſe: <hi>Iob.</hi>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <p>Mr. <hi>Cotton.</hi> Yea but he ſpeaks not theſe things to adde af<g ref="char:EOLhyphen"/>fliction
+to the afflicted, but if it were the holy will of God to
+move me to a ſerious ſight of my ſinne, and of the juſtice of
+Gods hand againſt it: Againſt your corrupt Doctrines it
+pleaſed the Lord Jeſus to fight againſt you with the ſword of
+<pb n="13" facs="tcp:111071:9"/>
+his mouth, as himſelfe ſpeaketh <hi>Rev.</hi> 2. in the mouthes and
+teſtimonies of the Churches &amp; Brethren, againſt whom when
+you overheat your ſelfe in reaſoning and diſputing, againſt
+the light of his truth, it pleaſed him to ſtop your mouth by a
+ſudden Diſeaſe, and to threaten to take breath from you: But
+you inſtead of recoiling (as even <hi>Balaam</hi> offered to doe in the
+like caſe) choſe rather to perſiſt in the way, and proteſt againſt
+all the Churches and brethren that ſtood in your way: and
+thus the good hand of Chriſt that ſhould have humbled you
+to ſee and turn from the error of your way, hath rather hard<g ref="char:EOLhyphen"/>ned
+you therin, and quickned you only to ſee failings (yea in<g ref="char:EOLhyphen"/>tollerable
+errors) in all the Churches and brethren, rather
+then in your ſelfe.</p>
+               <p>
+                  <hi>Anſwer.</hi> In theſe lines, an humble and diſcerning ſpirit may
+eſpie: Firſt a glorious juſtification and boaſting of Himſelfe
+and others concurring with him. Secondly, an unrighteous
+and uncharitable cenſure of the afflicted.</p>
+               <p>To the firſt I ſay no more,<note place="margin">The lanthor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of Gods word muſt alone try who fights with the ſword of Gods mouth, the ſame word of God.</note> but let the light of the holy lant<g ref="char:EOLhyphen"/>horne
+of the word of God diſcover and try with whom the
+ſword of Gods mouth (that is the teſtimony of the holy
+Scripture, for Chriſt, againſt Antichriſt) abideth. And whe<g ref="char:EOLhyphen"/>ther
+my ſelf and ſuch poore Witneſſes of Jeſus Chriſt in Old
+and New <hi>England,</hi> Low-Countries, &amp;c. deſiring in meeknes
+and patience to teſtifie the truth of Jeſus, againſt all falſe cal<g ref="char:EOLhyphen"/>lings
+of Miniſters,<note place="margin">Whether Mr. Cotton perſecuting, or the anſwerer perſecuted, bee likeſt to Balaam.</note> &amp;c. Or Mr. <hi>Cotton</hi> (however in his perſon
+holy and beloved) ſwimming with the ſtream of outward
+credit and profit, and ſmiting with the fiſt and ſword of per<g ref="char:EOLhyphen"/>ſecution
+ſuch as dare not joyn in worſhip with him; I ſay,
+whether of either be the Witneſſes of Chriſt Jeſus, in whoſe
+mouth is the ſword of his mouth, the ſword of the Spirit, the
+holy word of God, and whether is moſt like to <hi>Balaam?</hi>
+               </p>
+               <p>To the ſec<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: his cenſure. It is true, it pleaſed God by ex<g ref="char:EOLhyphen"/>cesſiv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+labours on the Lords dayes,<note place="margin">The anſwe<g ref="char:EOLhyphen"/>rers profeſsion concerning his ſicknes, which Mr. Cotton upbraids to him.</note> and thrice a week at <hi>Salem,</hi>
+by labours day and night in my Field with my own hands, for
+the maintenance of my charge; by travells alſo by day and
+night to goe and return from their Court (and not by over<g ref="char:EOLhyphen"/>heating
+in diſpute, divers of themſelves confesſing publikely
+my moderation) it pleaſed God to bring me neare unto death,
+in which time (notwithſtanding the mediating teſtimony of
+two skillfull in Phyſick) I was unmercifully driven from my
+<pb n="14" facs="tcp:111071:10"/>
+chamber to a Winters flight. During my ſicknes, I humbly
+appeale unto the Father of Spirits for witnes of the upright
+and conſtant diligent ſearch my ſpirit made after him, in the
+examination of all paſſages, both my private diſquiſitions
+with all the chief of their Miniſters, and publike agitations of
+points controverted: and what gracious fruit I reaped from
+that ſicknes, I hope my ſoule ſhall never forget. However I
+mind not to number up a catalogue of the many cenſures up<g ref="char:EOLhyphen"/>on
+Gods ſervants in the time of Gods chaſtiſements and viſi<g ref="char:EOLhyphen"/>tations
+on them,<note place="margin">Scripture, hi<g ref="char:EOLhyphen"/>ſtory, experi<g ref="char:EOLhyphen"/>ence can wit<g ref="char:EOLhyphen"/>nes the cen<g ref="char:EOLhyphen"/>ſures upon Gods ſervants in their affli<g ref="char:EOLhyphen"/>ctions.</note> both in Scripture, Hiſtory and experience.
+Nor retort the many evills which it pleaſed God to bring up<g ref="char:EOLhyphen"/>on
+ſome chief procurers of my ſorrows, nor upon the whole
+State immediatly after them, which many of their own have
+obſerved and reported to me: but I commit my cauſe to him
+that judgeth Righteouſly, and yet reſolve to pray againſt their
+Evils, <hi>Pſal.</hi> 141.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <p>Mr. <hi>Cotton.</hi> In which courſe though you ſay you doe not
+remember an houre, wherein the countenance of the Lord
+was darkned to you; yet be not deceived, it is no new thing
+with Sathan to transform himſelfe into an Angel of light,
+and to cheare the ſoule with falſe peace, and with flaſhes of
+counterfeit conſolation: Sad and wofull is the memorie of
+Mr. <hi>Smiths</hi> ſtrong conſolation on his death-bed, which is ſet
+as a ſeale to his groſſe and damnable Arminianiſme, and En<g ref="char:EOLhyphen"/>thuſiaſme
+delivered in the confesſion of his Faith, prefixed to
+the Storie of his life and death. <hi>The countenance of God is upon
+his people when they feare him,</hi> not when they preſume of their
+own ſtrength, and his conſolations are not found in the way of
+prefidence and error, but in the wayes of humilitie and truth.</p>
+               <p>
+                  <hi>Anſ.</hi> To that part which concerns my ſelf, the ſpeech hath
+reference either to the matter of juſtification, or elſe matter
+of my affliction for Chriſt, of both which I remember I
+have had diſcourſe.</p>
+               <p>For the firſt I have expreſt in ſome conference (as Mr. <hi>Cotton</hi>
+himſelfe hath alſo related concerning ſome,<note place="margin">A ſoule at peace with God may yet endure great combats con<g ref="char:EOLhyphen"/>cerning ſan<g ref="char:EOLhyphen"/>ctification.</note> with whom I am
+not worthy to be named) that after firſt manifeſtations of the
+countenance of God, reconciled in the blood of his Son unto
+my ſoule, my queſtions and trouble have not been concerning
+my reconciliation and peace with God, but concerning ſan<g ref="char:EOLhyphen"/>ctification
+<pb n="15" facs="tcp:111071:10"/>
+and fellowſhip with the holines of God, in which
+reſpect I deſire to cry (with <hi>Paul</hi>) in the bitternes of my ſpirit,
+<hi>O wretched man that I am, who ſhall deliver me from the body of this
+death!</hi>
+               </p>
+               <p>Secondly, it may have reference to ſome conference concer<g ref="char:EOLhyphen"/>ning
+affliction for his Names ſake, in which reſpect I deſire to
+acknowledge the faithfullnes of his word and promiſe, <hi>to be
+with his in 6 troubles and in 7, through fire and water,</hi> making good
+100 fold with perſecution,<note place="margin">Affliction for Chriſt ſweet.</note> to ſuch of his ſervants as ſuffer
+ought for his names ſake: and I have ſaid and muſt ſay, and all
+Gods witneſſes that have borne any paine or loſſe for Jeſus,
+muſt ſay, that fellowſhip with the Lord Jeſus in his ſufferings
+is ſweeter then all the fellowſhip with ſinners, in all the pro<g ref="char:EOLhyphen"/>fits,
+honours, and pleaſures of this preſent evill world. And
+yet 2 things I deſire to ſpeak to all men and my ſelfe,<note place="margin">Two cautions for any in perſecution for conſcience.</note> 
+                  <hi>Let every
+man prove his worke,</hi> Gal. 6. <hi>and then ſhall he have rejoycing in
+himſelfe, and not in another.</hi> Secondly, if any man love God,
+that ſoule knows God, or rather is known of <hi>God (1 Cor.</hi> 8.)
+Selfe-love may burn the bodie, but happy only he whoſe love
+alone to Chriſt conſtrains him to be like unto him, and ſuffer
+with him.</p>
+               <p>To that which concerneth Mr. <hi>Smith,</hi>
+                  <note place="margin">Mr. Smith godly, and a light to Mr. Cotton and o<g ref="char:EOLhyphen"/>thers, though left to himſelf in ſome things.</note> although I knew him
+not, and have heard of many points, in which my conſcience
+tells me, it pleaſed the Lord to leave him to himſelfe; yet I
+have alſo heard by ſome (whoſe teſtimonie Mr. <hi>Cotton</hi> will
+not eaſilie refuſe) that he was a man fearing God: and I am
+ſure Mr. <hi>Cotton</hi> hath made ſome uſe of thoſe principles and
+arguments on which Mr. <hi>Smith</hi> and others went, concerning
+the conſtitution of the Chriſtian Church. The infinite com<g ref="char:EOLhyphen"/>pasſions
+of God,<note place="margin">Gods infinite compaſsions toward thoſe whoſe hearts are upright with him</note> which lay no ſin to <hi>Davids</hi> charge but the ſin
+of <hi>Vritah, 1 King.</hi> 15. have graciouſly comforted the ſoules of
+his on their death-bed, accepting and crowning their <hi>upright<g ref="char:EOLhyphen"/>nes</hi>
+and <hi>faithfullnes,</hi> and pasſing by what otherwiſe is grievous
+and offenſive to him. And indeed from the due conſideration
+of that inſtance, it appeares that no ſin is comparably ſo grie<g ref="char:EOLhyphen"/>vous
+in <hi>Gods Davids,</hi>
+                  <note place="margin">The opinion of putting V<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ah to death, the vileſt of all opinions.</note> as a treacherous ſlaughter of the <hi>faithfull,</hi>
+whom we are forced to call <hi>beloved in Christ:</hi> That opinion in
+Mr. <hi>Cotton</hi> or any, is the moſt grievous to God or man, and not
+comparable to any that ever <hi>Mr. Smith</hi> could be charged with.
+It is true, the countenance and conſolations of God are found
+<pb n="16" facs="tcp:111071:11"/>
+in the wayes of humilitie and truth,<note place="margin">As the weights of the ſanctuary were double, ſo muſt there bee dou<g ref="char:EOLhyphen"/>ble pondering in all the af<g ref="char:EOLhyphen"/>fairs of Gods worſhip.</note> and Sathan transformeth
+him like to an Angel of light in a counterfeit of both: In
+which reſpect I deſire <hi>to worke out ſalvation with feare and trem<g ref="char:EOLhyphen"/>bling,</hi>
+and to doe nothing in the affaires of <hi>God</hi> and his Wor<g ref="char:EOLhyphen"/>ſhip,
+but (like the weights of the Sanctuarie) with <hi>double care,
+diligence</hi> and <hi>conſideration,</hi> above all the affaires of this vaniſhing
+life. And yet <hi>Chriſts conſolations</hi> are ſo ſweet, that the ſoule that
+taſteth them in truth, in ſuffering for any truth of his, will
+not eaſily part with them, though thouſands are deceiv'd and
+deluded with counterfeits.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X,</head>
+               <p>Mr. <hi>Cotton.</hi> Two ſtumbling blocks (I perceive) have turned
+you off from Fellowſhip with us. Firſt the want of fit matter
+of our Church. Secondly, diſreſpect of the Separate Churches
+in <hi>England</hi> under affliction, our ſelves practiſing Separation in
+peace.</p>
+               <p>For the firſt, you acknowledge, as you ſay, with joy, that god<g ref="char:EOLhyphen"/>ly
+perſons are the viſible members of theſe <hi>Churches,</hi> but yet
+you ſee not that godly perſons are matter fitted to conſtitute
+a <hi>Church,</hi> no more then Trees or Quarries are fit matter pro<g ref="char:EOLhyphen"/>portioned
+to the building. This exception ſeemeth to me to
+imply a contradiction to it ſelfe, for if the matter of the <hi>Chur<g ref="char:EOLhyphen"/>ches</hi>
+be as you ſay godly perſons, they are not then as Trees
+unfeld, and Stones unhewen: godlineſſe cutteth men downe
+from the former root and heweth them out of the pit of cor<g ref="char:EOLhyphen"/>rupt
+nature, and fitteth them for fellowſhip with <hi>Chriſt,</hi> and
+with his people.</p>
+               <p>
+                  <hi>You object, firſt,</hi> a neceſsity lying upon godly men before they can be
+fit matter for Church fellowſhip, to ſee, bewaile, repent, and come out of
+the falſe churches, worſhip, miniſtry, government, according to Scriptures
+<hi>Iſa. 62. 11. 2 Cor.</hi> 6. 17. and this is to be done not by a locall remo<g ref="char:EOLhyphen"/>vall
+or contrary practiſe, but by a deliverance of the ſoule, underſtand<g ref="char:EOLhyphen"/>ing,
+will, judgement and affection.</p>
+               <p>
+                  <hi>Anſ.</hi> Firſt we grant that it is not locall removall from for<g ref="char:EOLhyphen"/>mer
+pollution, nor contrary practiſe, that fitteth us for fellow<g ref="char:EOLhyphen"/>ſhip
+with Chriſt, and his Church, but thas it is neceſſary alſo
+that we repent of ſuch former pollutions wherewith we have
+been defiled and inthralled.</p>
+               <p>We grant further, that it is likewiſe neceſſary to Church-fellowſhip,
+we ſhould ſee and diſcerne all ſuch pollutions, as do
+<pb n="17" facs="tcp:111071:11"/>
+ſo farre inthrall us to Antichriſt as to ſeparate us from
+Chriſt: But this we profeſſe unto you, that wherin we have
+reformed our practice, therein have we endeavoured unfeig<g ref="char:EOLhyphen"/>nedly
+to humble our ſoules for our former contrary walking:
+if any through hypocriſie are wanting herein, the hidden hy<g ref="char:EOLhyphen"/>pocriſie
+of ſome will not prejudice the ſinceritie and faith<g ref="char:EOLhyphen"/>fullneſſe
+of others, nor the Church eſtate of all.</p>
+               <p>Anſw. <hi>That which requireth Anſwere in this paſſage, is a
+charge of a ſeeming contradiction, to wit,</hi> That perſons may be
+godly, and yet not fitted for Church eſtate, but remaine as Trees and
+Quarries unfeld, &amp;c. <hi>Contrary to which it is affirmed,</hi> that godly
+perſons cannot be ſo inthralled to Antichriſt, as to ſeparate them from
+Chriſt.</p>
+               <p>For the clearing of which let the word of Truth be rightly
+divided, and a right diſtinction of things applyed, there will
+appeare nothing contradictorie, but cleare and ſatisfactorie to
+each mans conſcience.</p>
+               <p>Firſt then I diſtinguiſh of a godly perſon thus:<note place="margin">The ſtate of godly perſons in groſſe ſins.</note> In ſome acts
+of ſin which a godly perſon may fall into, during thoſe acts,
+although before the all ſearching and tender eye of God, and
+alſo in the eyes of ſuch as are godly, ſuch a perſon remaineth
+ſtill godly, yet to the eye of the world externally ſuch a perſon
+ſeemeth ungodly, and a ſinner. Thus <hi>Noah</hi> in his Drunken<g ref="char:EOLhyphen"/>neſſe;
+thus <hi>Abraham, Lot, Samſon, Job, David, Peter,</hi> in their ly<g ref="char:EOLhyphen"/>ing
+whoredomes, curſings, Murther, denying and forſwearing
+of Chriſt Jeſus, although they loſt not their inward ſap and
+root of life,<note place="margin">Godly perſons falling into groſse ſins, are to expreſſe repentance be<g ref="char:EOLhyphen"/>fore they can b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> admitted to the church.</note> yet ſuffred they a decay and fall of leafe, and the
+ſhew of bad and evill Trees. In ſuch a caſe Mr. <hi>Cotton</hi> will not
+deny that a godly perſon falling into drunkennes wheredome
+deliberate murther, denying and forſwearing of Chriſt, the
+Church of Chriſt cannot receive ſuch perſons into Church-fellowſhip,
+before their ſight of humble bewailing and con<g ref="char:EOLhyphen"/>feſſing
+of ſuch evills<g ref="char:punc">▪</g> notwithſtanding that love may conceive
+there is a root of godlines within.<note place="margin">Gods children long aſleep in reſpect of Gods worſhip, though alive in the grace of Chriſt.</note>
+               </p>
+               <p>Secondly Gods children (<hi>Cant.</hi> 5.) notwithſtanding a princi<g ref="char:EOLhyphen"/>ple
+of ſpiriuall life in their ſoules, yet are lul'd into a long con<g ref="char:EOLhyphen"/>tinued
+ſleep in the matters of Gods worſhip: <hi>I ſleep, though my
+heart waketh.</hi> The heart is awake in ſpirituall life and grace, as
+concerning perſonall union to the Lord Jeſus, and conſcio<g ref="char:EOLhyphen"/>nable
+endeavours to pleaſe him in what the heart is convin<g ref="char:EOLhyphen"/>ced:
+<pb n="18" facs="tcp:111071:12"/>
+yet aſleep in reſpect of abundant ignorance and negli<g ref="char:EOLhyphen"/>gence,
+and conſequently groſſe abominations and pollutions
+of Worſhip, in which the choiſeſt ſervants of God, and moſt
+faithfull Witneſſes of many truths have lived in more or leſſe,
+yea in maine and fundamentall points, ever ſince the Apo<g ref="char:EOLhyphen"/>ſtacie.</p>
+               <p>Not to inſtance in all,<note place="margin">Mr. Cotton now profeſſes to practiſe what thou<g ref="char:EOLhyphen"/>ſands of Gods people for ma<g ref="char:EOLhyphen"/>ny ages have not ſeen.</note> but in ſome particulars which Mr.
+<hi>Cotton</hi> hath in new <hi>England</hi> reformed. I earneſtly beſeech him<g ref="char:EOLhyphen"/>ſelf
+&amp; all, wel to ponder how far he himſelf now profeſſeth to
+ſee, and practice, that which ſo many thouſands of godly per<g ref="char:EOLhyphen"/>ſons
+of high note in all ages (ſince the Apoſtacie) ſaw not: As</p>
+               <p>Firſt concerning the nature of a particular Church to con<g ref="char:EOLhyphen"/>ſiſt
+only of holy and godly perſons.</p>
+               <p>Secondly, of a true Miniſtrie called by that Church.</p>
+               <p>Thirdly, a true Worſhip free from Ceremonies, Common-Prayer,
+<hi>&amp;c.</hi>
+               </p>
+               <p>Fourthly a true Government in the hands only of ſuch Go<g ref="char:EOLhyphen"/>vernours
+and Elders, as are appointed by the Lord Jeſus. Hence
+Gods people not ſeeing their Captivitie in theſe points, muſt
+firſt neceſſarily be inlightned and called out from ſuch Cap<g ref="char:EOLhyphen"/>tivitie,
+before they can be nextly fitted and prepared for the
+true Church, Worſhip, Miniſtrie <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI.</head>
+               <p>Secondly,<note place="margin">The Iewes of old in the type could not build the Al<g ref="char:EOLhyphen"/>tar and Tem<g ref="char:EOLhyphen"/>ple in Babel, but firſt they muſt come forth, &amp; then build at Ieru<g ref="char:EOLhyphen"/>ſalem.</note> this will be more cleare if wee conſider Gods peo<g ref="char:EOLhyphen"/>ple
+and Church of old the Jewes, captivated in materiall Ba<g ref="char:EOLhyphen"/>bel,
+they could not poſsibly build Gods Altar and Temple at
+Jeruſalem, untill the yoke and bonds of their captivity were
+broke, and they ſet free to return with the veſſels of the Lords
+houſe, to ſet up his worſhip in Jeruſalem, as we ſee in the
+Bookes of <hi>Ezra, Nehemia, Daniel, Haggai, &amp;c.</hi> Hence in the
+Antitype, Gods people the ſpiritual and myſticall Jewes can<g ref="char:EOLhyphen"/>not
+poſsibly erect the Altar of the Lords true worſhip, and
+build the Temple of his true Church,<note place="margin">Gods myſtical Iſrael in the Antitype muſt alſo come forth of Babel before they can build the Temple at Ie<g ref="char:EOLhyphen"/>ruſalem.</note> without a true ſight of
+their ſpirituall bondage in reſpect of Gods worſhip, and a po<g ref="char:EOLhyphen"/>wer
+and ſtrength from Jeſus Chriſt to bring them out, and
+carry them through all difficulties in ſo mighty a work. And
+as the being of Gods people in materiall Babell, and a neceſ<g ref="char:EOLhyphen"/>ſity
+of their comming forth before they could build the
+Temple, did not in the leaſt deny them to be Gods people: no
+more now doth Gods people being in myſtical Babel (<hi>Rev.</hi> 18)
+<pb n="19" facs="tcp:111071:12"/>
+nor the neceſsity of their comming forth, hinder or deny the
+godlineſſe of their perſons,<note place="margin">Luther and other famous witneſſes very groſſe concer<g ref="char:EOLhyphen"/>ning Gods worſhip, though emi<g ref="char:EOLhyphen"/>nent for per<g ref="char:EOLhyphen"/>ſonall grace.</note> or ſpirituall life within them.</p>
+               <p>Thirdly, how many famous ſervants of God, and witneſſes
+of Jeſus lived and died and were burnt for other truths of Je<g ref="char:EOLhyphen"/>ſus,
+not ſeeing the evill of their Antichriſtian calling of Bi<g ref="char:EOLhyphen"/>ſhops,
+<hi>&amp;c.</hi> How did famous <hi>Luther</hi> himſelf continue a Monk,
+ſet forth the German Maſſe, acknowledge the Pope, and held
+other groſſe abominations concerning Gods worſhip, not<g ref="char:EOLhyphen"/>withſtanding
+the life of Chriſt Jeſus in him, and wrought in
+thouſands by his means.</p>
+               <p>Fourthly,<note place="margin">Mr. Cotton refuſeth godly perſons except they bee con<g ref="char:EOLhyphen"/>vinced of their Church Cove<g ref="char:EOLhyphen"/>nant.</note> Mr <hi>Cotton</hi> muſt be requeſted to remember his own
+practice (as before) how doth he refuſe to receive perſons emi<g ref="char:EOLhyphen"/>nent
+for perſonal grace and godlineſſe, to the Lords Supper, &amp;
+other priviledges of Chriſtians (according to the profeſsion of
+their Church-eſtate) until they be convinced of the neceſsity
+of making &amp; entring into a Church covenant with them, with
+a confeſsion of farth, <hi>&amp;c.</hi> and if any cannot bee perſwaded of
+ſuch a covenant and confeſsion (notwithſtanding their god<g ref="char:EOLhyphen"/>lineſſe,
+yet) are they not admitted.</p>
+               <p>Laſtly, how famous is that paſſage of that ſolemne queſtion
+put to Mr. <hi>Cotton</hi> and the reſt of the new Engliſh Elders,<note place="margin">Mr. Cotton &amp; the Engliſh Elders refuſe to permit e<g ref="char:EOLhyphen"/>minent Mini<g ref="char:EOLhyphen"/>ſters &amp; peo<g ref="char:EOLhyphen"/>ple of Old en<g ref="char:EOLhyphen"/>gland to live in New Eng<g ref="char:EOLhyphen"/>land (not<g ref="char:EOLhyphen"/>withſtanding bee confeſſeth their godlines above his own) if they joyn not in his Church-fellowſhip.</note> by
+divers of the miniſters of old England (eminent for perſonall
+godlineſſe, as <hi>Mr. Cotton</hi> acknowledgeth) <hi>viz.</hi> Whether they
+might be permitted in new England to enjoy their conſcien<g ref="char:EOLhyphen"/>ces
+in a Church eſtate different from the New Engliſh: unto
+which Mr. <hi>Cotton</hi> and the New Engliſh Elders returne a plain
+negative, in effect thus much, with the acknowledgment of
+their worth and godlines above their owne and their hopes of
+agreement; Yet in concluſion if they agree not, (which they
+are not like to doe) and ſubmit to that way of Church-fellow<g ref="char:EOLhyphen"/>ſhip
+and Worſhip which in New <hi>England</hi> is ſet up, they can<g ref="char:EOLhyphen"/>not
+only not enjoy Church-fellowſhip together but not per<g ref="char:EOLhyphen"/>mit
+them to live and breath in the ſame Aire and Common<g ref="char:EOLhyphen"/>weale
+together, which was my caſe; although it pleaſed Mr
+<hi>Cotton</hi> and others moſt incenſed, to give my ſelfe a teſtimony
+of <hi>godlines, &amp;c.</hi> And this is the reaſon, why although I con<g ref="char:EOLhyphen"/>feſſe
+with joy the care of the New Engliſh Churches, that no
+perſon be received to Fellowſhip with them, in whom they
+cannot firſt diſcerne true Regeneration, and the life of Jeſus:
+yet I ſaid and ſtill affirm, that godlie and regenerate perſons
+<pb n="20" facs="tcp:111071:13"/>
+(according to all the former inſtances and reaſons) are not fit<g ref="char:EOLhyphen"/>ted
+to conſtitute the true Chriſtian Church, untill it hath
+pleaſed God to convince their ſoules of the evill of the falſe
+Church,<note place="margin">Godly perſons living trees &amp; living ſtones, yet need much hewing and cutting to bring them from falſe to true worſhip.</note> Miniſtry, Worſhip, <hi>&amp;c.</hi> And although I confeſſe that
+godly perſons are not dead but living Trees, not dead, but liv<g ref="char:EOLhyphen"/>ing
+Stones, and need no new Regeneration (and ſo in that re<g ref="char:EOLhyphen"/>ſpect
+need no felling nor digging out) yet need they a mighty
+worke of Gods Spirit to humble and aſhame them, and to cauſe
+them to loath themſelves for their Abominations or ſtincks
+in Gods noſtrils (as it pleaſeth Gods Spirit to ſpeak of falſe
+Worſhips:) Hence <hi>Ezek.</hi> 43. 11. Gods people are not fit for
+Gods Houſe, untill holy ſhame be wrought in them, for what
+they have done. Hence God promiſeth to cauſe them to <hi>loath
+themſelves,</hi> becauſe they have broken him with their whoriſh
+hearts, <hi>Ezek.</hi> 6. 9. And hence it is that I have known ſome
+precious godly hearts confeſſe,<note place="margin">The comming forth of falſe worſhip a ſe<g ref="char:EOLhyphen"/>cond kind (as it were) of regeneration to Gods people</note> that the plucking of their ſouls
+out from the Abominations of falſe worſhip, hath been a ſe<g ref="char:EOLhyphen"/>cond
+kind of Regeneration. Hence was it that it pleaſed God
+to ſay concerning his peoples returne from their Materiall
+Captivitie (a figure of our Spirituall and myſticall) <hi>that they
+ſhould not ſay</hi> Jehovah <hi>liveth, who brought them from the land of</hi>
+Egypt (a type of firſt converſion as is conceived) <hi>but</hi> Jehovah
+<hi>liveth who brings them from the land of the</hi> North (a type of Gods
+peoples return from ſpirituall bondage to confuſed and inven<g ref="char:EOLhyphen"/>ted
+Worſhips.<note place="margin">Return from the land of the North.</note>
+               </p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII.</head>
+               <p>Now wheras Mr. <hi>Cotton</hi> addeth, That godly perſons are not
+ſo inthrall'd to Antichriſt as to ſeparate them from Chriſt;
+elſe they could not be godly perſons.</p>
+               <p>I anſwere, this comes not neare our Queſtion, which is not
+concerning perſonal godlines or grace of Chriſt but the god<g ref="char:EOLhyphen"/>lines
+or Chriſtianitie of Worſhip. Hence the Scripture holds
+forth Chriſt Jeſus firſt perſonally, as that God Man, that
+One Mediatour between God and man,<note place="margin">Chriſt conſi<g ref="char:EOLhyphen"/>dered two wayes, firſt, perſonally, &amp; ſo Gods people can never bee ſeparated from him.</note> the <hi>Man</hi> Chriſt Jeſus,
+whom all Gods people by Faith receive, and in receiving be<g ref="char:EOLhyphen"/>come
+the Sons of God, <hi>Iohn</hi> 1. 12. although they yet ſee not
+the particular wayes of his Worſhip. Thus was it with the
+Centurion the Woman of <hi>Canaan, Cornelius,</hi> and moſt, at their
+firſt converſion.</p>
+               <p>Secondly, the Scripture holdeth forth Chriſt as Head of his
+<pb n="21" facs="tcp:111071:13"/>
+Church<g ref="char:punc">▪</g>
+                  <note place="margin">Secondly, as head of his Church, and ſo he is often loſt and abſent from his Spouſe.</note> formed into a Body of worſhippers, in which reſpect
+the Church is called <hi>Chriſt,</hi> 1 Cor 12. 12. and the deſcription
+of <hi>Chriſt</hi> is admirably ſet forth in 10 ſeverall parts of a mans
+bodie, fitting and ſuiting to the viſible profesſion of Chriſt in
+the Church <hi>Cant.</hi> 5.</p>
+               <p>Now in the former reſpect Antichriſt can never ſo inthral
+Gods people as to ſeparate them from Chriſt, that is, from
+the life and grace of Chriſt, although he inthrall them into
+never ſo groſſe Abominations concerning Worſhip: for God
+will not looſe His in <hi>Egypt, Sodome, Babel,</hi> His Jewels are moſt
+precious to him though in a Babiloniſh dunghill, and his
+Lillie ſweet and lovely in the Wildernes commixt with Bri<g ref="char:EOLhyphen"/>ars.<note place="margin">Gods people cannot ſerve a falſe Chriſt and the true together.</note>
+Yet in the ſecond reſpect, as Chriſt is taken for the
+church, I conceive that Antichriſt may ſeparate Gods people
+from Chriſt, that is from Chriſts true viſible Church and
+Worſhip. This Mr. <hi>Cotton</hi> himſelfe will not deny if he re<g ref="char:EOLhyphen"/>member
+how little a while it is ſince the falſehood of a Nati<g ref="char:EOLhyphen"/>onal,
+Provincial, Dioceſan and Pariſhionall Church, <hi>&amp;c.</hi> and
+the truth of a particular Congregation, conſiſting only of
+holy perſons appeared unto him.</p>
+               <p>The Papiſts Queſtion to the Proteſtant <hi>viz.</hi>
+                  <note place="margin">The Church before Luther.</note> 
+                  <hi>Where was your
+Church before</hi> Luther? is thus well anſwered to wit, That ſince
+the Apoſtacie, Truth, and the <hi>holy city</hi> (according to the Pro<g ref="char:EOLhyphen"/>phecie
+<hi>Revel.</hi> 11 &amp; 13.) have been troden under foot,<note place="margin">Revel. 13.</note> and the
+<hi>whole earth</hi> hath wondred after the Beaſt: yet God hath ſtir'd
+up Witneſſes to Prophecie in Sackcloth againſt the Beaſt, du<g ref="char:EOLhyphen"/>ring
+his 42 <hi>moneths reigne:</hi> yet thoſe Witneſſes have in their
+Times, more or leſſe ſubmitted to Antichriſt, and his Church,
+Worſhip Miniſtrie, <hi>&amp;c.</hi> and ſo conſequently have been igno<g ref="char:EOLhyphen"/>rant
+of the <hi>true</hi> Chriſt, that is, Chriſt taken for the Church
+in the true profeſſion of that holy Way of Worſhip, which he
+himſelfe at firſt appointed.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII.</head>
+               <p>Mr. <hi>Cotton.</hi> Secondly, we deny that it is neceſſary to Church
+fellowſhip (that is ſo neceſſary that without it a Church can<g ref="char:EOLhyphen"/>not
+be) that the Members admitted thereunto ſhould all of
+them ſee, and expreſly bewaile all the Pollutions which they
+have been defiled with in the former Church-fellowſhip. Mi<g ref="char:EOLhyphen"/>niſtry,
+Worſhip, Government, <hi>&amp;c.</hi> if they ſee and bewaile ſo
+much of their former pollutions, as did inthrall them to An<g ref="char:EOLhyphen"/>tichriſt,
+<pb n="22" facs="tcp:111071:14"/>
+ſo as to ſeparate them from Chriſt, and be readie in
+preparation of heart, as they ſhall ſee more Light, ſo to hate
+more and more every falfe way; we conceive it is as much as
+is neceſſarily required to ſeparate them from Antichriſt, and
+to fellowſhip with Chriſt and his Churches. The Church
+of Chriſt admitted many thouſand Jewes that beleeved on
+the name of Chriſt, although they were ſtill zealous of the
+Law, and ſaw not the beggarly emptines of <hi>Moſes</hi> his ceremo<g ref="char:EOLhyphen"/>nies,
+<hi>Acts</hi> 21 20. and the Apoſtle <hi>Paul</hi> directeth the Romans
+to <hi>receive ſuch unto them as are weake in the faith,</hi> and ſee not their
+libertie from the ſervile difference of Meats and Dayes, but
+ſtill lie under the bondage of the Law; yea he wiſheth them
+to receive ſuch upon this ground, <hi>becauſe Chriſt hath received
+them, Rom.</hi> 14. to the ſixt.</p>
+               <p>Say not there is not the like danger of lying under bondage
+to <hi>Moſes</hi> as to Antichriſt, for even the bondage under <hi>Moſes</hi>
+was ſuch, as if continued in after inſtruction and conviction,
+would ſeparate them from Chriſt, <hi>Gal.</hi> 5. 2. and bondage under
+Antichriſt could doe no more.</p>
+               <p>
+                  <hi>Anſ.</hi> Here I deſire 3. things may be obſerved:</p>
+               <p>Firſt Mr. <hi>Cottons</hi> own confesſion of that two-fold Church
+eſtate,<note place="margin">Mr. Cotton confeſsing the true and falſe conſtitution of the church.</note> worſhip<g ref="char:punc">▪</g> 
+                  <hi>&amp;c.</hi> the former falſe, or elſe why to be ſo be<g ref="char:EOLhyphen"/>wailed
+and forſaken; the ſecond true, to be imbraced and ſub<g ref="char:EOLhyphen"/>mitted
+to.</p>
+               <p>Secondly, his own confeſſion of that which a little before
+he would make ſo odious in me to hold,<note place="margin">Mr. Cotton confeſsing to hold what hee cenſureth in the anſwerer.</note> 
+                  <hi>viz.</hi> that Gods people
+may be ſo farre inthralled to Antichriſt, as to ſeparate them
+from Chriſt: for ſaith he. If they ſee and bewaile ſo much of
+their former pollutions, as did inthrall them to Antichriſt, ſo
+as to ſeparate them from Chriſt.</p>
+               <p>Thirdly<g ref="char:punc">▪</g> I obſerve how eaſilie a ſoule may wander in his
+generalls,<note place="margin">Fallacie in Mr. Cottons generals.</note> for thus he writes, Though they ſee not <hi>all the pollu<g ref="char:EOLhyphen"/>tions</hi>
+wherewith they have been defiled in the former Church-fellowſhip.
+Again, if they ſee ſo much as did inthrall them to
+Antichriſt,<note place="margin">A godly per<g ref="char:EOLhyphen"/>ſon remaining a member of a falſe Church, is therein a member of a falſe Chriſt.</note> and ſeparate them from Chriſt. And yet he ex<g ref="char:EOLhyphen"/>preſſeth
+nothing of that <hi>all the pollutions,</hi> nor what <hi>ſo much</hi> is as
+will ſeparate them from Chriſt. Hence upon that former
+diſtinction that Chriſt in viſible Worſhip is Chriſt: I de<g ref="char:EOLhyphen"/>maund,
+Whether if a godly perſon remaine a member of a
+falſly conſtituted Church, and ſo conſequently (in that re<g ref="char:EOLhyphen"/>ſpect)
+<pb n="23" facs="tcp:111071:14"/>
+of a falſe Chriſt,<note place="margin">Separation from falſe Chriſt abſo<g ref="char:EOLhyphen"/>lutely neceſſa<g ref="char:EOLhyphen"/>ry before there can be union to the true.</note> whether in viſible worſhip he be not
+ſeparate from the true Chriſt?</p>
+               <p>Secondly, I aske, Whether it be not abſolutely neceſſary to
+his uniting with the true Church, that is, with Chriſt in true
+Chriſtian Worſhip, that he ſee and bewaile, and abſolutely
+come out from that former falſe Church or Chriſt, and his
+Miniſtrie, Worſhip, <hi>&amp;c.</hi> before he can be united to the true Iſ<g ref="char:EOLhyphen"/>rael,<note place="margin">A ſequeſtrati<g ref="char:EOLhyphen"/>on or ſepara<g ref="char:EOLhyphen"/>tion of the ſoul from the world in the idolatrous and invented worſhips of it before it can be preſented to Chriſt Ieſus, as a chaſt virgin into the chaſt bed of his owne moſt holy in<g ref="char:EOLhyphen"/>ſtitutions.</note>
+muſt come forth of Egypt before they can ſacrifice to
+God in the Wildernes. The Jewes come out of <hi>Babel</hi> before
+they build the Temple in <hi>Ieruſalem:</hi> The husband of a wo<g ref="char:EOLhyphen"/>man
+die, or ſhe be legally divorced, before ſhe can lawfully be
+maried to another; the graft cut off from one, before it can be
+ingrafted into another ſtock: The Kingdome of Chriſt, (that
+is the Kingdome of the Saints, <hi>Dan.</hi> 2. &amp; 7.) is cut out of the
+mountain of the Romane Monarchie. Thus the Corinthians
+1 <hi>Cor.</hi> 6. 9, 10, 11. uniting with, Chriſt Jeſus, they were waſhed
+from their Idolatrie, as well as other ſins: Thus the Theſſalo<g ref="char:EOLhyphen"/>nians
+turned from their Idols before they could ſerve the liv<g ref="char:EOLhyphen"/>ing
+and true God, 1 <hi>Theſſ.</hi> 1. 9. and as in Paganiſme, ſo in Anti<g ref="char:EOLhyphen"/>chriſtianiſme,
+which ſeparates as certainly (though more ſub<g ref="char:EOLhyphen"/>tilly)
+from Chriſt Jeſu.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV.</head>
+               <p>Yea but it is ſaid, that Jewes weake in Chriſtian liberties,
+and zealous for <hi>Moſes</hi> Law they were to be received.<note place="margin">Difference between Gods own holy in<g ref="char:EOLhyphen"/>ſtitutions to the Iewes, and Satans Paga<g ref="char:EOLhyphen"/>niſh or Anti<g ref="char:EOLhyphen"/>chriſtian in<g ref="char:EOLhyphen"/>ſtitution to the Gentiles, as concerning the manner of comming forth of them.</note>
+               </p>
+               <p>I anſwer, 2 things muſt here carefully be minded:</p>
+               <p>Firſt although bondage to <hi>Moſes</hi> would ſeparate from
+Chriſt, yet the difference muſt be obſerved between thoſe
+Ordinances of <hi>Moſes</hi> which it pleaſed God himſelfe to ordain
+and appoint, as his then only Worſhip in the world, though
+now in the comming of his Son, he was pleaſed to take away,
+yet with ſolemnitie; and on the other ſide the Inſtitutions and
+Ordinances of Antichriſt, which the Devill himſelfe inven<g ref="char:EOLhyphen"/>ted,
+were from firſt to laſt never to be received and ſubmitted
+to one moment, nor with ſuch ſolemnitie to be laid down, but
+to be abhor'd and abominated for ever.</p>
+               <p>The Nationall Church of the Jewes, with all the ſhadowiſh
+typicall Ordinances of Kings,<note place="margin">A compariſon between the Iewiſh and Chriſtian or<g ref="char:EOLhyphen"/>dinances.</note> Prieſts, Prophets, Temple, Sa<g ref="char:EOLhyphen"/>crifices
+were as a ſilver candleſtick, on which the light of the
+Knowledge of God and of the Lord Jeſus in the type and ſha<g ref="char:EOLhyphen"/>dow
+was ſet up and ſhined. That Silver Candleſtick it plea<g ref="char:EOLhyphen"/>ſed
+<pb n="24" facs="tcp:111071:15"/>
+the moſt holy and only wiſe to take away, and in ſtead
+therof to ſet up the Golden Candleſticks of particular Chur<g ref="char:EOLhyphen"/>ches
+(<hi>Revel.</hi> 1.) by the hand of the Son of God himſelfe:
+Now the firſt was <hi>ſilver</hi> (the pure will and mind of God, but
+intended only for a ſeaſon:) the ſecond of a more <hi>precious la<g ref="char:EOLhyphen"/>ſting</hi>
+nature, <hi>a Kindome not to be ſhaken</hi> (that is aboliſhed as the
+former) <hi>Heb.</hi> 12. 28.</p>
+               <p>Therfore Secondly,<note place="margin">Moſes ordi<g ref="char:EOLhyphen"/>nances at one time pretious and holy, at another time beggarly and deadly.</note> obſerve the difference of Time (which
+Mr. <hi>Cotton</hi> himſelfe confeſſeth) after Inſtruction and Con<g ref="char:EOLhyphen"/>viction
+(ſaith he) <hi>Moſes</hi> Law was deadly and would ſeparate
+from Chriſt, therfore, there was a time when they were not
+deadly, and did not ſeparate from Chriſt, to wit untill <hi>Moſes</hi>
+was honourably fallen aſleep, and lamented for (as I conceive)
+in the type and figure 30. dayes (<hi>Deut.</hi> 34.) Therfore at one
+ſeaſon (not for <hi>Timo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hies</hi> weake conſcience, but for the Jews
+ſake) <hi>Paul</hi> circumciſed <hi>Timothy:</hi> at another time when the Jews
+had ſufficient inſtruction, and obſtinately would be circum<g ref="char:EOLhyphen"/>ciſed,
+and that neceſſarily to ſalvation, <hi>Paul</hi> ſeaſonably cries
+out,<note place="margin">The firſt Chriſtians communicated in the Iewiſh Synagogues until the Iews contradicted &amp; ſpoke evill, &amp;c. then they ſeparated.</note> that <hi>if they were circumciſed Chriſt ſhould profit them nothing,</hi>
+Gal. 5. Hence the Chriſtians at <hi>Epheſus</hi> converſed with the
+Jewiſh Synagogue, untill the Jews contradicted and blaſphe<g ref="char:EOLhyphen"/>med,
+and then were ſpeedilie ſeparate by <hi>Paul,</hi> Acts 19. But to
+apply <hi>Paul</hi> obſerved a Vow, and the ceremonies of it, circum<g ref="char:EOLhyphen"/>ciſed
+<hi>Timothy, &amp;c.</hi> may therefore a <hi>meſſenger of Chriſt</hi> now (as
+<hi>Paul</hi>) goe to <hi>Maſſe,</hi> pray to Saints, perform pennance, keep
+chriſtmas and other Popiſh Feaſts and Faſts, <hi>&amp;c.</hi>
+               </p>
+               <p>Againe, is there ſuch a time allowed to any man, uniting or
+adding himſelfe to the true Church now, to obſerve the un<g ref="char:EOLhyphen"/>holy
+holy dayes of Feaſting and Faſting invented by Anti<g ref="char:EOLhyphen"/>chriſt?
+yea and (as <hi>Paul</hi> did circumciſion) to practiſe the Po<g ref="char:EOLhyphen"/>piſh
+Sacraments?<note place="margin">A member of a true Church falling into a<g ref="char:EOLhyphen"/>ny idelatrous practice, not preſently to be excommuni<g ref="char:EOLhyphen"/>cated.</note> I doubt not, but if any member of a true
+Church or aſſembly of Worſhippers, ſhall fall to any Paganiſh
+or Popiſh practiſe, he muſt be inſtructed and convinced, be<g ref="char:EOLhyphen"/>fore
+Excommunication: but the Queſtion is, Whether ſtill
+obſerving and ſo practiſing, a perſon may be received to the
+true Chriſtian Church, as the Jewes were, although they yet
+practiſed <hi>Moſes</hi> ceremonies.</p>
+               <p>Theſe things duly pondred (in the feare and preſence of
+God) it will appeare how vain the allegation is, from that ten<g ref="char:EOLhyphen"/>der
+and honourable reſpect to Gods Ordinances now vani<g ref="char:EOLhyphen"/>ſhing
+<pb n="25" facs="tcp:111071:15"/>
+from the Jewes,<note place="margin">Not one de<g ref="char:EOLhyphen"/>gree of ſight of, or ſorrow for Antichri<g ref="char:EOLhyphen"/>ſtian abomi<g ref="char:EOLhyphen"/>nations, yet a neceſsity of cutting off from the falſe, before union to the true Church, Mi<g ref="char:EOLhyphen"/>niſtery, wor<g ref="char:EOLhyphen"/>ſhip, &amp;c.</note> and their weake conſciences about the
+ſame, to prove the ſame tendernes to Sathans inventions, and
+the conſciences of men in the renouncing of Paganicall, Tur<g ref="char:EOLhyphen"/>kiſh,
+Antichriſtian; yea and I adde Judaical Worſhips now,
+when once the time of their full vaniſhing was come.</p>
+               <p>To conclude, although I preſcribe not ſuch a meaſure of
+ſight of, or ſorrow for Antichriſtian Abominations (I ſpeake
+in reſpect of degrees, which it pleaſeth the <hi>Father of Lights</hi> to
+diſpence variouſly to one more, to another leſſe) yet I beleeve
+it abſolutely neceſſary to ſee and bewaile ſo much as may a<g ref="char:EOLhyphen"/>mount
+to cut off the ſoule from the falſe Church (whether
+National, Pariſhional or any other faſly conſtituted Church)
+Miniſtrie, Worſhip and Government of it.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV.</head>
+               <p>Mr. <hi>Cotton.</hi> Anſ. 3. To places of Scripture which you ob<g ref="char:EOLhyphen"/>ject,
+<hi>Iſa. 52. 11. 2 Cor. 6. 17. Revel.</hi> 18. 4. We anſwere, two of
+them makes nothing to your purpoſe: for that of <hi>Iſaiah,</hi> and
+the other of the <hi>Revelation,</hi> ſpeak of locall ſeparation, which
+your ſelfe know we have made, and yet you ſay, you doe not
+apprehend that to be ſufficient. As for that place of the Co<g ref="char:EOLhyphen"/>rinths,
+it only requireth comming out from Idolaters in the
+Fellowſhip of their Idolatry. No mariages were they to make
+with them, no Feaſts were they to hold with them in the
+Idolls Temple; no intimate familiaritie were they to main<g ref="char:EOLhyphen"/>taine
+with them, nor any Fellowſhip were they to keep with
+them in the unfruitfull works of darknes, and this is all which
+that place requireth. But what makes all this to prove, that
+we may not receive ſuch perſons to Church fellowſhip, as
+your ſelfe confeſſe to be godly, and who doe profeſſedly re<g ref="char:EOLhyphen"/>nounce
+and bewail all known ſin and would renounce m<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e
+if they knew more, although it may be they do not ſee the ut<g ref="char:EOLhyphen"/>moſt
+skirts of all that pollution they have ſomtimes been de<g ref="char:EOLhyphen"/>filed
+with; as the Patriarchs ſaw not the pollution of their
+Poligamie: But that you may plainly ſee this place is wreſted
+beſide the Apoſtles ſcope, when you argue from it, that ſuch
+perſons are not fit matter for Church fellowſhip, as are defiled
+with any remnants of Antichriſtian pollution, nor ſuch
+Churches any more to be accounted Churches<g ref="char:punc">▪</g> as do receive
+ſuch amongſt them. Conſider I pray you, were there not at
+that time in the Church of Corinth, ſuch as partook with the
+<pb n="26" facs="tcp:111071:16"/>
+Idolaters in the Idolls temple? And was not this the touch<g ref="char:EOLhyphen"/>ing
+of an uncleane thing? And did this ſin reject theſe mem<g ref="char:EOLhyphen"/>bers
+from Church fellowſhip before convicton? Or did it
+evacuate their Church eſtate for not caſting out ſuch mem<g ref="char:EOLhyphen"/>bers?</p>
+               <p>
+                  <hi>Anſ.</hi> The Scriptures or <hi>writings</hi> of <hi>truth</hi> are thoſe heavenly
+righteous <hi>ſcales,</hi> wherin all our contraverſies muſt be tried,
+and that bleſſed Starre that leads all thoſe <hi>ſoules</hi> to Jeſus that
+ſeek him. But ſaith Mr. <hi>Cotton</hi> two of thoſe Scriptures alledg<g ref="char:EOLhyphen"/>ged
+by me (<hi>Iſa. 52. 11. Revel.</hi> 18. 4. which I brought to prove
+a <hi>neceſſitie</hi> of leaving the falſe, before a joyning to the true
+Church, they ſpeake of <hi>locall ſeparation,</hi> which (ſaith he) your
+ſelfe know we have made.</p>
+               <p>For that <hi>locall</hi> and typicall ſeparation from <hi>Babylon,</hi>
+                  <note place="margin">Mr. Cotton cannot make both comings forth of Ba<g ref="char:EOLhyphen"/>bel both in the Type and an<g ref="char:EOLhyphen"/>titype to bee locall.</note> 
+                  <hi>Iſa.</hi> 52.
+I could not well have beleeved that Mr. <hi>Cotton</hi> or any would
+make that comming forth of <hi>Babel</hi> in the antitype, <hi>Rev.</hi> 18 4.
+to be <hi>locall</hi> and <hi>materiall</hi> alſo. What civill State, Nation or
+Countrey in the world, in the antitype muſt now be called <hi>Ba<g ref="char:EOLhyphen"/>bel?</hi>
+certainly, if any, then <hi>Babel</hi> it ſelfe properly ſo called: but
+there we find (as before) at true Church of Jeſus Chriſt, 1 <hi>Pet.</hi> 5.</p>
+               <p>Secondly,<note place="margin">If a locall Ba<g ref="char:EOLhyphen"/>bel, then alſo now a locall Iudea and Temple, &amp;c. Come out of Babel not materiall, but myſticall.</note> if <hi>Babel</hi> be <hi>locall</hi> now, whence Gods people are
+called, then muſt there be a locall <hi>Iudea,</hi> a Land of <hi>Canaan</hi> alſo,
+into which they are called; and where ſhall both that <hi>Babel</hi>
+and <hi>Canaan</hi> be found in all the commings forth that have been
+made from the Church of <hi>Rome</hi> in theſe laſt times? But Mr.
+<hi>Cotton</hi> having made a locall departure from Old <hi>England</hi> in
+<hi>Europe,</hi> to New <hi>England</hi> in <hi>America,</hi> can he ſatisfie his owne
+ſoule, or the ſoules of other men, that he hath obeyed that
+voice,<note place="margin">The Lord Ie<g ref="char:EOLhyphen"/>ſus hath bro<g ref="char:EOLhyphen"/>ken down the difference of places and perſons.</note> 
+                  <hi>come out of Babel my people, partake not of her ſins, &amp;c.</hi> Doth
+he count the very Land of <hi>England</hi> literally <hi>Babel,</hi> and ſo con<g ref="char:EOLhyphen"/>ſequently
+<hi>Aegypt</hi> and <hi>Sodome, Revel.</hi> 11. 8. and the Land of new
+England <hi>Judea, Canaan? &amp;c.</hi>
+               </p>
+               <p>The Lord Jeſus (<hi>John</hi> 4.) clearly breaks down all difference
+of <hi>places,</hi> and <hi>Acts</hi> 10 all difference of <hi>perſons;</hi> and for my ſelfe,
+I acknowledge the Land of England, the civill Laws, Govern<g ref="char:EOLhyphen"/>ment
+and people of England,<note place="margin">2 Chiefeſt cauſes of Gods indignation againſt Eng<g ref="char:EOLhyphen"/>land.</note> not to be inferiour to any under
+heaven. Only 2 things I ſhall humbly ſuggeſt unto my deare
+Countrymen (whether more <hi>high</hi> and <hi>honourable</hi> at the <hi>helme</hi>
+of Government, or more inferiour, who <hi>labour</hi> and <hi>ſaile</hi> in this
+famous Ship of Englands Common Wealth) as the greateſt
+<pb n="27" facs="tcp:111071:16"/>
+                  <hi>cauſes,</hi>
+                  <note place="margin">Theſe two particulars I ſhould be humbly rea<g ref="char:EOLhyphen"/>dy to make proof of.</note> 
+                  <hi>fourtaines</hi> and <hi>top roots</hi> of all the Indignation of the
+moſt High, againſt the State and Countrey: Firſt that the
+whole Nation and Generations of Men have been forced
+(though unregenerate and unrepentant) to pretend and aſſume
+the name of Chriſt Jeſus, which only belongs, according to
+the Inſtitution of the Lord Jeſus, to truely regenerate and re<g ref="char:EOLhyphen"/>penting
+ſoules. Secondly, that all others <hi>diſſenting</hi> from them,
+whether Jewes or Gentiles, their Countrymen eſpecially (for
+ſtrangers have a Libertie) have not been permitted <hi>civill coha<g ref="char:EOLhyphen"/>bitation</hi>
+in this world with them, but have been <hi>distreſſea</hi> and
+<hi>perſecuted</hi> by them.</p>
+               <p>But to returne, the ſumme of my Contraverſie with Mr.
+<hi>Cotton</hi> is,<note place="margin">The ſouls cap<g ref="char:EOLhyphen"/>tivity to falſe worſhip is not locall, but a guilt, and not only ſo, but an habit or diſpoſition of ſpiritual ſleep, whoredome, drunkenneſſe, &amp;c.</note> Whether or no that falſe Worſhipping of the <hi>true
+God,</hi> be not only a <hi>ſpirituall guilt</hi> liable to Gods ſentence and
+plagues, but alſo an <hi>habit,</hi> frequently compared in the Pro<g ref="char:EOLhyphen"/>phets,
+and <hi>Rev.</hi> 17. to a ſpirit and diſpoſition of ſpiritual drun<g ref="char:EOLhyphen"/>kenneſſe
+and whoredome, a ſoule ſleep and a ſoule ſickneſſe:
+So that as by the change of a chaire, chamber or bed, a ſick or
+ſleepie man, whore or drunkard are not changed, but they
+remaine the ſame ſtill, untill that diſpoſition of ſicknes, ſlee<g ref="char:EOLhyphen"/>pineſſe,
+drunkennes, whoredome be put off, and a new habit of
+ſpirituall health, watchfullnes, ſobrietie, chaſtitie be put on.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI.</head>
+               <p>Now concerning that Scripture, 2 <hi>Cor.</hi> 6. Mr. <hi>Cotton</hi> here
+confeſſeth it holdeth forth 5. things: That the repenting
+Corinthians were called out in from the unrepenting:</p>
+               <p>Firſt, in the Fellowſhip of their Idolatrie.</p>
+               <p>2. From making Mariages with them.</p>
+               <p>3. From Feaſting in their Idols temples.</p>
+               <p>4. From intimate Familiaritie with them.</p>
+               <p>5. From all Fellowſhip in the <hi>unfruitfull works</hi> of <hi>dark<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es.</hi>
+                  <note place="margin">The benefites of the repen<g ref="char:EOLhyphen"/>ting Engliſh, their coming forth from the impenitent Engliſh in thoſe former 5 particulars mentioned by Mr. Cotton.</note>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> If regenerate and truely repenting Engliſh thus come
+forth from the unregenerate and unrepenting, how would the
+name of the Lord Jeſus be ſanctified, the jealouſie of the Lord
+pacified, their own ſoules cleanſed, judgements prevented, yea
+and one good meanes practiſed toward the convincing and ſa<g ref="char:EOLhyphen"/>ving
+of the ſoules of ſuch, from whom in theſe particulars
+they depart, and dare not have Fellowſhip with: eſpecially
+when in all civill things they walke unblameably, in quiet and
+helpfull cohabitation, righteous and faithfull dealing, and
+<pb n="28" facs="tcp:111071:17"/>
+chearfull ſubmisſion to civill Lawes, Orders, Levies, Cu<g ref="char:EOLhyphen"/>ſtomes,
+<hi>&amp;c.</hi>
+               </p>
+               <p>Yea but Mr. <hi>Cotton</hi> demands, What makes all this to prove
+that godly perſons who profeſſedly renounce all <hi>known</hi> ſinne,
+may not be received to Church fellowſhip, although they ſee
+not the utmoſt skirts of their Pollution, as the Patriarchs ſaw
+not the pollution of their Poligamie.<note place="margin">The ſins of Gods pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ple are ſome<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> reputed to be of ignorance, when they are of negligence, and yet igno<g ref="char:EOLhyphen"/>rance excuſeth not wholly.</note>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> I repeat the former diſtinction of godly perſons, who
+poſſibly may live in ungodly practices (eſpecially of falſe wor<g ref="char:EOLhyphen"/>ſhip)
+and then according to Mr. <hi>Cottons</hi> own interpretation of
+this place to the <hi>Corinthians,</hi> they come not forth. And I adde,
+if there be any voice of Chriſt in the mouthes of his Witneſſes
+againſt theſe ſinnes, they are not then of Ignorance, but of
+Negligence, and <hi>ſpirituall hardnes,</hi> againſt the wayes of Gods
+feare, againſt <hi>Iſa. 63. &amp;c.</hi>
+               </p>
+               <p>Moreover, our queſtion is not of the <hi>utmoſt skirts</hi> of Polluti<g ref="char:EOLhyphen"/>on,
+but the ſubſtance of a true or falſe Bed of Worſhip <hi>Cant.</hi>
+1. 16. in reſpect of comming out of the <hi>falſe,</hi> before the en<g ref="char:EOLhyphen"/>trance
+into the <hi>true.</hi> And yet I beleeve that Mr. <hi>Cotton</hi> being to
+receive a perſon to Church fellowſhip,<note place="margin">A caſe put to Mr. Cotton.</note> who formerly hath
+been infamous for corporall Whoredome, he would not give
+his conſent to receive ſuch an one,<note place="margin">No cauſe of more ſhame frr whore<g ref="char:EOLhyphen"/>dome againſt an husbands bed, then a<g ref="char:EOLhyphen"/>gainſt the bed of Gods wor<g ref="char:EOLhyphen"/>ſhip.</note> without ſound Repentance
+for the filthines of her skirts (<hi>Lament.</hi> 1.) not only in actuall
+whoredomes, but alſo in whoriſh Speeches, Geſtures, Appea<g ref="char:EOLhyphen"/>rances,
+Provocation. And why ſhould there be a greater ſtri<g ref="char:EOLhyphen"/>ctnes
+for the skirts of common whoredom, then of <hi>spiritual</hi> &amp;
+<hi>ſoul</hi> Whoredome, againſt the chaſtitie of Gods Worſhip? And
+therfore to that inſtance of the Fathers Poligamie, I anſwer:
+Firſt by obſerving what great ſins godly perſons may posſibly
+live and long continue in, notwithſtanding godlineſſe in the
+root. Secondly I aske if any perſon, of whoſe godlines Mr. <hi>Cot.</hi>
+hath had long perſwaſion, ſhould beleeve and maintaine (as
+queſtionles the Fathers had grounds ſatisfying their conſci<g ref="char:EOLhyphen"/>ences
+for what they did:) that he ought to have many Wives,
+and accordingly ſo practiſed;<note place="margin">The caſe of Poligamy, or many wives of the Fathers.</note> I ſay, I aske whether Mr. <hi>Cotton</hi>
+would receive ſuch a godly perſon to Church fellowſhip?
+yea I aske, whether the Church of the Jewes (had they ſeen
+this evill) would have received ſuch a Proſelite from the Gen<g ref="char:EOLhyphen"/>tiles,
+and when it was ſeen, whether any perſons ſo practiſing
+would have been ſuffred amongſt them: But laſtly, what was
+<pb n="29" facs="tcp:111071:17"/>
+this perſonall ſinne of theſe godly perſons? was it any matter
+of Gods worſhip, any joyning with a falſe Church, Miniſtry,
+Worſhip, Government, from whence they were to come, be<g ref="char:EOLhyphen"/>fore
+they could conſtitute his true Church, and enjoy his
+Worſhip, Miniſtery, Government, <hi>&amp;c.</hi>
+               </p>
+               <p>Mr. <hi>Cotton</hi> concludeth this paſſage thus, The Church of
+<hi>Corinth</hi> had ſuch as partook with Idolaters in their Idolls tem<g ref="char:EOLhyphen"/>ple,
+and was not this (ſaith he) <hi>touching of an uncleane thing,</hi> and
+did this reject theſe members from Church fellowſhip before
+conviction; and did it evacuate their Church eſtate, for not
+caſting out of ſuch members?</p>
+               <p>
+                  <hi>Anſ.</hi> This was an uncleane thing indeed, from which God
+calls his people in this place, with glorious promiſes of recei<g ref="char:EOLhyphen"/>ving
+them: and Mr. <hi>Cotton</hi> confeſſeth that after conviction,
+any member obſtinate in theſe unclean touches, ought to be
+rejected, for, ſaith he, did this ſin reject theſe members from
+Church fellowſhip before conviction?</p>
+               <p>And upon the ſame ground that one obſtinate perſon ought
+to be rejected out of Church eſtate,<note place="margin">It leſſeneth not a rebelli<g ref="char:EOLhyphen"/>on that it is in a multitude: hence a Citie in Iſrael ido<g ref="char:EOLhyphen"/>latrous was to be deſtroyed.</note> upon the ſame ground,
+if a greater company or Church were obſtinate in ſuch un<g ref="char:EOLhyphen"/>cleane
+touches, and ſo conſequently in a rebellion againſt
+Chriſt, ought every ſound Chriſtian Church to reject them,
+and every ſound member to withdraw from them.</p>
+               <p>And hence further it is cleare, that if ſuch unclean touches
+obſtinately maintained (as Mr. <hi>Cotton</hi> confeſſeth and practi<g ref="char:EOLhyphen"/>ſeth)
+be a ground of rejection of a perſon in the Church,<note place="margin">Obſtinacte that caſteth out, will keep out from communion with the Lord Ieſus in his Church.</note> que<g ref="char:EOLhyphen"/>ſtionleſſe
+it is a ground of rejection when ſuch perſons are to
+joyne unto the Church. And if obſtinacie in the whole
+Church after conviction be a ground for ſuch a Churches re<g ref="char:EOLhyphen"/>jection,
+queſtionleſſe ſuch a Church or number of perſons ob<g ref="char:EOLhyphen"/>ſtinate
+in ſuch evills, cannot congregate nor become a true
+conſtituted Church of Jeſus Chriſt.</p>
+               <p>The greateſt queſtion here would be,<note place="margin">The Church of Corinth, &amp; every true Church ſepa<g ref="char:EOLhyphen"/>rate from I<g ref="char:EOLhyphen"/>dols as a chaſt virgin to Chriſt.</note> Whether the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi>
+in their firſt conſtitution were ſeparate or no, from ſuch
+Idoll Temples? and this Mr. <hi>Cotton</hi> neither doth nor can de<g ref="char:EOLhyphen"/>ny;
+a Church eſtate being a ſtate of mariage unto Jeſus Chriſt,
+and ſo <hi>Paul</hi> profeſſedly ſaith, he had <hi>eſpouſed them as a chaſt
+virgin to Chriſt Ieſus,</hi> 2 Cor. 11.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>CHAP. XVII.</head>
+               <p>Mr. <hi>Cotton</hi> proceeds to anſwer ſome other allegations which
+<pb n="30" facs="tcp:111071:18"/>
+I produced from the confesſion of ſinne made by <hi>Iohns</hi> Diſ<g ref="char:EOLhyphen"/>ciples,
+and the Proſelite Gentiles before they were admitted
+into Church fellowſhip, <hi>Mat. 3. 6. Acts</hi> 19. 18. Unto which he
+returneth a 3 fold anſwere: The firſt is grounded upon his
+apparent miſtake of my words in a grant of mine, <hi>viz.</hi> Such a
+confeſſion and renunciation is not abſolutely neceſſary, if the
+ſubſtance of true repentance be diſcerned. Whence (ſaith he)
+according to your own confeſſion, ſuch perſons as have the
+ſubſtance of true Repentance may be a true Church.</p>
+               <p>I anſwere, it is cleare in the progreſſe of the whole contra<g ref="char:EOLhyphen"/>verſie,<note place="margin">The ſubſtance of true gene<g ref="char:EOLhyphen"/>rall repen<g ref="char:EOLhyphen"/>tance in all Gods chil<g ref="char:EOLhyphen"/>dren, though living in ma<g ref="char:EOLhyphen"/>ny groſſe abo<g ref="char:EOLhyphen"/>minations of falſe worſhip, Miniſtry, &amp;c.</note>
+that I ever intend by the ſubſtance of true Repentance,
+not that generall grace of Repentance, which all Gods people
+have (as <hi>Luther</hi> a Monk, and going to, yea publiſhing the Ger<g ref="char:EOLhyphen"/>man
+Maſſe, and thoſe famous Biſhops burnt for Chriſt in Qu.
+<hi>Maries</hi> dayes) but that ſubſtance of Repentance for thoſe falſe
+wayes of Worſhip, Church, Miniſtry, <hi>&amp;c.</hi> in which Gods peo<g ref="char:EOLhyphen"/>ple
+have lived, although the confeſſing and renouncing of
+them be not ſo particularly expreſt, and with ſuch godly ſor<g ref="char:EOLhyphen"/>row
+and indignation as ſome expreſſe, and may well become:
+And indeed the whole ſcope of that caution was for Chriſtian
+moderation,<note place="margin">Not the ſame meaſure and degrees of re<g ref="char:EOLhyphen"/>pentance in all.</note> and gentlenes toward the ſeverall ſorts of Gods
+people, profeſſing particular repentance for their ſpirituall
+captivity and bondage, during which captivitie alſo I readily
+acknowledge the ſubſtance of repentance, and of all the graces
+of Chriſt in generall.</p>
+               <p>In his ſecond Anſwere Mr. <hi>Cotton</hi> ſaith,<note place="margin">Mr. Cotton.</note> I grant with the one
+hand, and take away with the other, for he denies it neceſſary
+to the admiſſion of members, that every one ſhould be con<g ref="char:EOLhyphen"/>vinced
+of the ſinfullnes of every ſipping of the Whores, cup,
+for (ſaith he) every ſipping of a drunkards cup is not ſinfull.<note place="margin">Some have drunk deep of the Whores cup; and ſome but ſipt, yet intoxicated.</note>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Firſt he doth not rightly aledge my words, for a little
+before he confeſſeth, my words to be that Antichriſtian drun<g ref="char:EOLhyphen"/>kenneſſe
+and whoredome is to be confeſt of all ſuch as have
+drunk of the Whores cup, or but ſipt of it. In which words I
+plainly diſtinguiſh between ſuch as have drunk deeper of her
+cup, as Papiſts, Popiſh Prieſts, <hi>&amp;c.</hi> and ſuch as in compariſon
+have but ſipt, as Gods own people, who yet by ſuch ſipping
+have been ſo intoxicated, as to practiſe ſpirituall whoredome
+againſt Chriſt in ſubmitting to falſe Churches, Miniſtrie,
+Worſhip, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <pb n="31" facs="tcp:111071:18"/>
+Secondly, whereas he ſaith every ſipping of a drunkards cup
+is not ſinfull.</p>
+               <p>I anſwere: neither the leaſt ſipping, nor conſtant drinking
+out of the cup which a drunkard uſeth to drinke in, is ſinfull:
+but every drunken ſip (which is our queſtion) is queſtionleſſe
+ſinfull, and ſo conſequently to be avoyded by the ſober, whe<g ref="char:EOLhyphen"/>ther
+the cup of corporall or ſpirituall drunkennes.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>CHAP. XVIII.</head>
+               <p>Mr. <hi>Cotton.</hi>
+                  <note place="margin">Mr. Cotton.</note> Yea but (ſaith he) the 3000. Jewes were admit<g ref="char:EOLhyphen"/>ted
+when they repented of their murthering of Chriſt, al<g ref="char:EOLhyphen"/>though
+they never ſaw all the ſuperſtitious leavenings wher<g ref="char:EOLhyphen"/>with
+the Phariſes had bewitched them: and ſo no doubt may
+godly perſons now, although they be not yet convinced of
+every paſſage of Antichriſtian ſuperſtition, <hi>&amp;c.</hi> and that upon
+this ground, that ſpirituall whoredome and drunkenneſſe is
+not ſo ſoon diſcerned as corporall.</p>
+               <p>I anſwer, it is not indeed ſo eaſily diſcerned, and yet not the
+leſſe ſinfull, but infinitly tranſcendent, as much as ſpirituall
+ſobriety exceeds corporall, and the bed of the moſt high God,
+exceeds the beds of men, who are but duſt and aſhes.</p>
+               <p>Secondly,<note place="margin">The firſt Chriſtians the beſt pattern for all Chri<g ref="char:EOLhyphen"/>ſtians now.</note> I anſwere the converted Jews although they ſaw
+not all the leavenings of the Phariſes, yet they mourned for
+killing of Chriſt, and embraced him in his Worſhip Miniſtry,
+Government, and were added to his Church: and O that the
+leaſt beames of light and ſparkles of heat were in mine owne,
+and others ſoules, which were kindled by the holy Spirit of
+God in thoſe famous converts at the preaching of <hi>Peter, Acts</hi> 2.
+The true Chriſt now in his Worſhip, Miniſtrie, <hi>&amp;c.</hi> being diſ<g ref="char:EOLhyphen"/>cerned
+and repentance for perſecuting and killing of him,<note place="margin">The power of true repen<g ref="char:EOLhyphen"/>tance for kil<g ref="char:EOLhyphen"/>ling of Chriſt.</note> be<g ref="char:EOLhyphen"/>ing
+expreſt, there neceſſarily follows a withdrawing from the
+Church, Miniſtry and Worſhip of the falſe Chriſt, and ſub<g ref="char:EOLhyphen"/>miſſion
+unto the true: and this is the ſumme and ſubſtance
+of our contraverſie.</p>
+               <p>Concerning the confeſſion of ſinnes unto <hi>Iohn,</hi>
+                  <note place="margin">Mr. Cotton.</note> he grants the
+Diſciples of <hi>Iohn</hi> confeſt their ſins, the Publicans theirs, the
+Souldiers theirs the people theirs, but ſaith he, it appeares not
+that they confeſt their Phariſaicall pollution.</p>
+               <p>And concerning the confeſſion <hi>Acts</hi> 19. 18. he ſaith it is not
+expreſt that they confeſt all their deeds.</p>
+               <p>
+                  <hi>Anſ.</hi> If both theſe confeſt their notorious ſins, (as Mr. <hi>Cot<g ref="char:EOLhyphen"/>ton</hi>
+                  <pb n="32" facs="tcp:111071:19"/>
+expreſſeth) why not as well their notorious ſinnes againſt
+God, their Idolatries, Superſtitious Worſhips, <hi>&amp;c.</hi> Surely
+throughout the whole Scripture, the matters of God, and his
+Worſhip are firſt and moſt tenderly handled; his people are
+ever deſcribed by the title of his Worſhippers, and his enemies
+by the title of Worſhippers of falſe gods, and worſhipping the
+<hi>true</hi> after a falſe manner; and to prove this were to bring forth
+a candle to the bright ſhining of the Sun at noon day.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX.</head>
+               <p>His third anſwere is:<note place="margin">Mr. Cotton.</note> But to ſatisfie you more fully (and the
+Lord make you willing in true meekneſſe of Spirit to receive
+ſatisfaction) the body of the members doe in generall profeſſe,
+that the reaſon of their coming over to us was, that they
+might be freed from the bondage of humane Inventions and
+Ordinances, as their ſoules groaned under, for which al ſo they
+profeſſe their hearty ſorrow, ſo farre as through ignorance or
+infirmitie they have bin defiled. Beſide, in our daily meetings,
+and ſpecially in the times of our ſolemne Humiliations, we
+generally all of us bewaile all our former pollutions, where<g ref="char:EOLhyphen"/>with
+we have defiled our ſelves and the holy things of God,
+in our former adminſtrations and communions: but we ra<g ref="char:EOLhyphen"/>ther
+chooſe to doe it then talke of it; and we can but wonder
+how you can ſo boldly and reſolutely renounce all the Chur<g ref="char:EOLhyphen"/>ches
+of God, for neglect of that which you know not whether
+they have neglected or no, and before you have admoniſhed
+us of our ſinfullnes in ſuch neglect, if it be found amongſt us.</p>
+               <p>I anſwer (with humble deſires to the Father of Lights,<note place="margin">Anſwer.</note> for
+the true meeknes and wiſdome of his Spirit) here is mention
+of humane Inventions and Ordinances, and defiling themſelvs
+and holy things of God in former Adminiſtrations, and Com<g ref="char:EOLhyphen"/>munions,<note place="margin">How can a ſoule truly oppoſe Anti<g ref="char:EOLhyphen"/>chriſt, that endures not to have his name queſtio<g ref="char:EOLhyphen"/>ned.</note>
+and yet no mention what ſuch Inventions and Or<g ref="char:EOLhyphen"/>dinances,
+what ſuch Adminiſtrations and Communions were:
+We rather chooſe to doe it (ſaith he) then to talke of it, which
+makes me call to mind, an expreſſion of an eminent and wor<g ref="char:EOLhyphen"/>thy
+perſon amongſt them in a ſolemne conference, <hi>viz. What
+need we ſpeake of Antichriſt, can we not enjoy our liberties without
+inveighing againſt Antichriſt?</hi> &amp;c.</p>
+               <p>The truth is, I acknowledge their witnes againſt Ceremo<g ref="char:EOLhyphen"/>nies
+and Biſhops, but that yet they ſee not the evill of a Nati<g ref="char:EOLhyphen"/>onall
+Church (notwithſtanding they conſtitute only parti<g ref="char:EOLhyphen"/>cular
+<pb n="33" facs="tcp:111071:19"/>
+and independant) let their conſtant practice ſpeake, in
+ſtill joyning with ſuch Churches and Miniſters in the Ordi<g ref="char:EOLhyphen"/>nances
+of the Word and Prayer, and their Perſecuting of my
+ſelfe for my humble and faithfull,<note place="margin">Mr. Cotton witneſsing a<g ref="char:EOLhyphen"/>gainſt a nati<g ref="char:EOLhyphen"/>onall Church, and yet hold<g ref="char:EOLhyphen"/>ing f<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>owſhip with it.</note> and conſtant admoniſhing
+of them, of ſuch unclean walking between a particular Church
+(which they only profeſſe to be Chriſts) and a Nationall,
+which Mr. <hi>Cotton</hi> profeſſeth to ſeparate from.</p>
+               <p>But how could I poſſibly be ignorant, (as he ſeemeth to
+charge me) of their ſtate, when being from firſt to laſt in fel<g ref="char:EOLhyphen"/>lowſhip
+with them, an Officer amongſt them, had private and
+publike agitations concerning their ſtate and condition,<note place="margin">Imposſible for the anſwerer to be ignorant of their Church eſtate, as Mr. Cotton pretendeth.</note> with
+all or moſt of their Miniſters, and at laſt ſuffred for ſuch ad<g ref="char:EOLhyphen"/>monitions
+to them, the miſerie of a Winters Baniſhment
+amongſt the Barbarians: and yet ſaith he, You know not
+what we have done, neither have you admoniſhed us of our
+ſinfullnes.</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX.</head>
+               <p>Mr. <hi>Cotton.</hi>
+                  <note place="margin">Mr. Cotton.</note> A third Scrip<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure which I produced was <hi>Hag<g ref="char:EOLhyphen"/>gai</hi>
+2. 13, 14, 15. deſiring that the place might be throughly
+weighed, and that the Lord might pleaſe to hold the ſcales
+himſelfe, the Prophet there telling the Church of the Jewes,
+<hi>that if a perſon unclean by a dead body touch holy things, thoſe holy
+things become uncleane unto them;</hi> and ſo ſaith he is this Nation,
+and ſo is every work of their hands and that which they offer
+is uncleane: whence I infer'd, that even Church Covenants
+made, and Ordinances practiced by perſons polluted through
+ſpirituall deadnes, and filthines of Communion, ſuch Cove<g ref="char:EOLhyphen"/>nants
+and Ordinances become uncleane unto them, and are
+prophaned by them.</p>
+               <p>Mr. <hi>Cotton</hi> anſwers, Your purpoſe was to prove that Chur<g ref="char:EOLhyphen"/>ches
+cannot be conſtituted by ſuch perſons as are unclean by
+Antichriſtian pollutions, or if they be ſo conſtituted they are
+not to be communicated with, but ſeparated from: But the
+Prophet acknowledgeth the whole Church of the Jews to be
+unclean, and yet neither denies them to be a Church truly
+conſtituted, nor ſtirs up himſelfe or others to ſeparate from
+them.</p>
+               <p>
+                  <hi>Anſ.</hi> I acknowledge the true conſtitution of the Church
+of the Jewes, and affirm that this their true conſtitution was
+the reaſon why they were not to be ſeparated from: for being
+<pb n="34" facs="tcp:111071:20"/>
+a Nationall Church,<note place="margin">The <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the Iewes a Nationall Church truely conſtituted, therfore not to bee ſepa<g ref="char:EOLhyphen"/>rated from, Death and captivity in the nationall church typed out ſpiritual death &amp; cap<g ref="char:EOLhyphen"/>tivity in the particular.</note> ceremoniall and typicall their Excom<g ref="char:EOLhyphen"/>munication
+was either putting to death in, or captivitie out
+of that ceremoniall <hi>Canaan.</hi> Hence <hi>Salmanaſſars</hi> carrying the
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Tribes captive out of this Land is ſaid to be the caſting of
+them out of Gods ſight, 2 <hi>Kings</hi> 17. which was their Excom<g ref="char:EOLhyphen"/>munication.</p>
+               <p>Accordingly in the particular Chriſtian Churches, Chriſt
+Jeſus cuts off by ſpirituall death, which is Excommunication,
+or for want of due execution of Juſtice by that Ordinance in
+his Kingdome, he ſells the Church into ſpirituall captivitie,
+to confuſed (Babyloniſh) Lords, and Worſhips, and ſo drives
+them out of his ſight.</p>
+               <p>Now from the conſequent of this place in <hi>Haggai</hi> mine ar<g ref="char:EOLhyphen"/>gument
+ſtands good; and Mr. <hi>Cotton</hi> here acknowledgeth it,
+that <hi>holy things</hi> may be all uncleane to Gods people, when they
+lie in their uncleannes,<note place="margin">Ceremoniall uncleanneſſe in the natio<g ref="char:EOLhyphen"/>nall Church typed out mo<g ref="char:EOLhyphen"/>rall unclean<g ref="char:EOLhyphen"/>neſſe in the particular.</note> as this people did. Thoſe Scriptures,
+<hi>Levit.</hi> 16. &amp; <hi>Numbers</hi> 19. which diſcourſe of typicall and Ce<g ref="char:EOLhyphen"/>remoniall
+uncleanneſſe, he acknowledgeth to type out in the
+Goſpel the Morall uncleannes either of <hi>dead works, Epheſ.</hi> 5.
+11. or <hi>dead perſons, 2 Cor.</hi> 6. 14. or <hi>dead world, Gal.</hi> 6. 14. and in
+this place of <hi>Haggai,</hi> he acknowledgeth that Gods people,
+Prince and people, were defiled by worldlines, in which con<g ref="char:EOLhyphen"/>dition
+(ſaith he) their oblations, their bodily labours, were all
+uncleane, and found neither acceptance nor bleſſing from the
+Lord.</p>
+               <p>Therfore ſaith he afterward: In the Church godly Chri<g ref="char:EOLhyphen"/>ſtians
+themſelves, while they attend to the world more then
+to the things of God, are uncleane in the ſight of God: ther<g ref="char:EOLhyphen"/>fore
+the Church cannot be conſtituted of ſuch; or if it be con<g ref="char:EOLhyphen"/>ſtitute
+of ſuch, the people of God muſt ſeparate from them.
+And laſtly, he ſaith, the Church of Chriſt and members ther<g ref="char:EOLhyphen"/>of
+muſt ſeparate themſelves from their hypocriſie, and world<g ref="char:EOLhyphen"/>lynes,
+els they and their duties will be unclean in the ſight of
+God, notwithſtanding their Church eſtate.</p>
+               <p>
+                  <hi>Anſ.</hi> What have I more ſpoken then Mr. <hi>Cotton</hi> himſelfe
+hath uttered in this his explication and application of this
+Scripture? As</p>
+               <p>Firſt, that godly perſons may become defiled and unclean
+by hypocriſie and worldlines.</p>
+               <p>Secondly, while they lie in ſuch a condition of uncleannes,
+<pb n="35" facs="tcp:111071:20"/>
+all their offerings,<note place="margin">Mr. Cottons own confeſsi<g ref="char:EOLhyphen"/>on concerning unclean wor<g ref="char:EOLhyphen"/>ſhips even of godly perſons.</note> perſons, labours are unclean in the ſight of
+God, and have neither acceptance nor bleſſing from him: but
+they and their duties are unclean in his ſight notwithſtanding
+their Church eſtate.</p>
+               <p>Thirdly, the Church of Chriſt cannot be conſtituted of
+ſuch godly perſons, when defiled with ſuch worldlineſſe.</p>
+               <p>Fourthly, the Church c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſiſting of ſuch worldly perſons
+(though otherwiſe godly and Chriſtian) the people of God
+muſt ſeparate from them.</p>
+               <p>Theſe are Mr. <hi>Cottons</hi> owne expreſſe words which juſtifie:<note place="margin">Inferences from Maſter Cottons grant.</note>
+               </p>
+               <p>Firſt my former diſtinction of godly perſons in their perſo<g ref="char:EOLhyphen"/>nall
+reſpect, between God and themſelves; and yet becoming
+ungodly in their outward defilements.</p>
+               <p>Secondly, they juſtifie my aſſertion of a neceſſitie of clean<g ref="char:EOLhyphen"/>ſing
+from Antichriſtian filthines and communions with dead
+works, dead worſhips dead perſons in Gods worſhip, if the
+touches of the dead world, or immoderate love of it doe ſo
+defile, as Mr. <hi>Cotton</hi> here affirmeth.</p>
+               <p>Thirdly, if (as he ſaith) the Church cannot be conſtituted
+of ſuch godly perſons as are defiled by immoderate love of the
+world, much leſſe can it be conſtituted of godly perſons defi<g ref="char:EOLhyphen"/>led
+with the dead Inventions, Worſhips, Communions of <hi>unre<g ref="char:EOLhyphen"/>generate</hi>
+and ungodly perſons.</p>
+               <p>Fourthly he juſtifies a ſeparation from ſuch Churches, if ſo
+conſtituted, or ſo conſtituting, becauſe though worldlines be
+Adulterie againſt God <hi>James</hi> 4. yet not comparable to ſpi<g ref="char:EOLhyphen"/>rituall
+Adultery of a falſe bed of Worſhip, Miniſtrie, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="21" type="chapter">
+               <head>CHAP. XXI.</head>
+               <p>Mr. <hi>Cotton</hi> proceedeth. The ſecond ſtumbling block or of<g ref="char:EOLhyphen"/>fence
+which you have taken at the way of theſe Churches, is
+that you conceive us to walk between Chriſt and Antichriſt.
+Firſt in practiſing ſeparation here, and not repenting of our
+preaching and Printing againſt it in our own Countrie. Se<g ref="char:EOLhyphen"/>condly,
+in reproaching your ſelfe at <hi>Salem,</hi> and others for ſepa<g ref="char:EOLhyphen"/>ration.
+Thirdly in particular, that my ſelfe have conceived
+and ſpoken, that ſeparation is a way that God hath not proſ<g ref="char:EOLhyphen"/>pered:
+yet ſay you the truth of the Churches way depends
+not upon the countenance of men, or upon outward peace and
+liberty.</p>
+               <p>Unto this he anſwers, that they halt not, but walke in the
+<pb n="36" facs="tcp:111071:21"/>
+mid'ſt of 2 extreames, the one of being defiled with the pol<g ref="char:EOLhyphen"/>lution
+of other Churches, the other of renouncing the Chur<g ref="char:EOLhyphen"/>ches
+for the remnant of Pollutions.</p>
+               <p>This moderation he (with ingenuous moderation) profeſ<g ref="char:EOLhyphen"/>ſeth
+he ſees no cauſe to repent of, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> With the Lords gracious aſſiſtance we ſhall prove this
+middle walking to be no leſſe then halting, for which we ſhall
+ſhew cauſe of repentance, beſeeching him that is a Prince and
+a Saviour to give repentance unto his <hi>Iſrael, Acts</hi> 5 3.</p>
+               <p>Firſt Mr. <hi>Cotton</hi> himſelfe confeſſeth, that no Nationall, Pro<g ref="char:EOLhyphen"/>vinciall,
+Dioceſan, or Pariſh Church (wherin ſome truly god<g ref="char:EOLhyphen"/>ly
+are not) are true Churches. Secondly, he practiſeth no
+Church eſtate, but ſuch as is conſtituted only of godly per<g ref="char:EOLhyphen"/>ſons,
+nor admitteth any unregenerate or ungodly perſon.
+Thirdly, he confeſſeth a Church of Chriſt cannot be conſti<g ref="char:EOLhyphen"/>tuted
+of ſuch godly perſons, who are in bondage to the inor<g ref="char:EOLhyphen"/>dinate
+love of the world. Fourthly, if a Church conſiſt of
+ſuch, Gods people ought to ſeparate from them.</p>
+               <p>Upon theſe his owne confeſſions,<note place="margin">Mr. Cotton extenuates &amp; minceth the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oot, maſſe and ſubſtance of the matter of national chur<g ref="char:EOLhyphen"/>ches, which he acknowled<g ref="char:EOLhyphen"/>geth to be un<g ref="char:EOLhyphen"/>regenerate, not yet born again, by na<g ref="char:EOLhyphen"/>ming onely a remnant of pollutions.</note> I earneſtly beſeech Mr.
+<hi>Cotton</hi> and all that feare God to ponder how he can ſay he
+walks with an even foot between 2 extreams, when according
+to his own confeſſion, Nationall Churches, Pariſh Churches,
+yea a Church conſtituted of godly perſons given to inordinate
+love of the world are falſe and to be ſeparated from: and yet
+he will not have the Pariſh Church to be ſeparated from, for
+the remnant of pollution (I conceive he meaneth ceremonies
+&amp; Biſhops) notwithſtanding that he alſo acknowledgeth, that
+the generality of every Pariſh in <hi>England</hi> conſiſteth of unrege<g ref="char:EOLhyphen"/>nerate
+perſons, and of thouſands inbondaged, not only to
+worldlines, but alſo ignorance, ſuperſtition, ſcoffing ſwearing,
+curſing, whoredome drunkenneſſe, theft, lying. What are 2.
+or 3. or more of regenerate and godly perſons in ſuch commu<g ref="char:EOLhyphen"/>nions,<note place="margin">The eſtate of the godly mingled with the ungodly in worſhips.</note>
+but as 2 or 3 Roſes or Lillies in a wilderneſſe? a few
+grains of good corne in a heap of chaffe? a few ſheep among
+heards of Wolves or Swine, or (if more civill) flocks of Goats?
+a little good dough ſwallowed up with a whole buſhell of lea<g ref="char:EOLhyphen"/>ven?
+or a little precious gold confounded and mingled with a
+whole heap of droſſe? The Searcher of all Hearts knowes I
+write not this to reproach any, knowing that my ſelfe am by
+nature <hi>a child of wrath,</hi> and that the <hi>father of mercies</hi> ſhews <hi>mercy</hi>
+                  <pb n="37" facs="tcp:111071:21"/>
+to <hi>whom</hi> and <hi>when</hi> he will:<note place="margin">The ſtate of men muſt be faithfully diſcovered unto them,</note> but for the Name of Chriſt Jeſus, in
+<hi>loving faithfullnes</hi> to my Countrymens ſoules, and <hi>defence</hi> of
+<hi>truth,</hi> I remember my worthy adverſary of that ſtate and con<g ref="char:EOLhyphen"/>dition,
+from which his confeſſions ſay he muſt ſeparate, his
+practiſe in gathering of Churches ſeemes to ſay he doth ſepa<g ref="char:EOLhyphen"/>rate;
+and yet he profeſſeth there are but ſome remnants of pol<g ref="char:EOLhyphen"/>lution
+amongſt them for which he dares not ſeparate.</p>
+            </div>
+            <div n="22" type="chapter">
+               <head>CHAP. XXII.</head>
+               <p>Mr. <hi>Cotton.</hi> Secondly (ſaith he) I know no man that reproa<g ref="char:EOLhyphen"/>cheth
+<hi>Salem</hi> for their ſeparation, nor doe I beleeve that they
+doe ſeparate, howſoever if any do reproach them for it, I think
+it a ſin meet to be cenſured, but not with ſo deep a cenſure as
+to Excommunicate all the <hi>Churches,</hi> or to ſeparate from them
+before it do appeare that they doe tollerate their members in
+ſuch their cauſeles reproachings: We confeſſe the errors of
+men are to be contended againſt, not with reproaches, but the
+Sword of the Spirit: but on the other ſide, the ſaylings of the
+Churches are not forthwith to be healed by ſeparation. It is
+not chyrurgery but butcherie to heale every ſore in a mem<g ref="char:EOLhyphen"/>ber
+with no other but abſciſion from the body.</p>
+               <p>
+                  <hi>Anſ.</hi> The Church of <hi>Salem</hi> was known to profes ſeparation,
+and was generally and publikely reproached (and I could men<g ref="char:EOLhyphen"/>cion
+a caſe wherin ſhe was puniſhed) for it implicitly.</p>
+               <p>Mr. <hi>Cotton</hi> here confeſſeth theſe 2 things, which (I leave to
+himſelfe to reconcile,<note place="margin">Mr. Cotton ſeemes to bee both for and yet againſt ſeparation.</note> with his former profeſſion here and
+elswhere againſt ſeparation. Firſt (ſaith he) if any reproach
+them for ſeparation it is a ſin meet to be cenſured. Secondly,
+the Churches themſelves may be ſeparated from, who tole<g ref="char:EOLhyphen"/>rate
+their members in ſuch cauſeles reproachings. In theſe
+later paſſages he ſeems (as in other his confeſſions and practiſes
+mentioned) to be for it, ſenſible of ſhame, diſgrace or reproach
+to be caſt on it.</p>
+               <p>I grant with him the failings of Churches are not forthwith
+to be healed by ſeparation,<note place="margin">Mr. Cottons own confesſi<g ref="char:EOLhyphen"/>ons are ſuffi<g ref="char:EOLhyphen"/>cient anſwers to himſelfe.</note> yet himſelf within a few lines con<g ref="char:EOLhyphen"/>feſſeth
+there is a lawfull ſeparation from Churches, that doe
+but tollerate their members in cauſeles reproaches.</p>
+               <p>I confeſſe alſo that it is not chyrurgerie but butcherie, to
+heale every ſore with no other medicine but with abſciſion
+from the body: yet himſelfe confeſſeth before, that even
+Churches of godly perſons muſt be ſeparated from, for im<g ref="char:EOLhyphen"/>moderate
+<pb n="38" facs="tcp:111071:22"/>
+worldlines:<note place="margin">Not for a ſore of infir<g ref="char:EOLhyphen"/>mity, but a le<g ref="char:EOLhyphen"/>proſie or gan<g ref="char:EOLhyphen"/>grene of ob<g ref="char:EOLhyphen"/>ſtinacie ought a perſon to be cat off.</note> And again here he confeſſeth they may
+be ſeparated from, when they tolerate their members in ſuch
+their cauſeles reproachings. Beſide, it is not every ſore of in<g ref="char:EOLhyphen"/>firmitie
+or ignorance, but an Ulcer or Gangrene of Obſtinacy<g ref="char:punc">▪</g>
+for which I maintained that a perſon ought to be cut off, or a
+Church ſeparated from. But if he call that butcherie conſci<g ref="char:EOLhyphen"/>enciouſly
+and peaceably to ſeparate from a ſpirituall commu<g ref="char:EOLhyphen"/>nion
+of a Church or ſocietie<g ref="char:punc">▪</g>
+                  <note place="margin">Mr. Cotton deeply guilty of cruelty both againſt con<g ref="char:EOLhyphen"/>ſciences and bodies in per<g ref="char:EOLhyphen"/>ſecuting of them yet cryes out againſt the appearance of due ſeveri<g ref="char:EOLhyphen"/>tie in the Church of Chriſt<g ref="char:punc">▪</g>
+                  </note> what ſhall it be called by the ſe<g ref="char:EOLhyphen"/>cond
+<hi>Adam</hi> the Lord Jeſus (who gives names to all creatures
+and all actions) to cut off perſons, them and theirs, branch and
+root, from any civill being in their territories; and conſequent<g ref="char:EOLhyphen"/>ly
+from the whole world (were their territories ſo large) be<g ref="char:EOLhyphen"/>cauſe
+their conſciences dare not bow down to any worſhip<g ref="char:punc">▪</g>
+but what they beleeve the Lord Jeſus appointed and being al<g ref="char:EOLhyphen"/>ſo
+otherwiſe ſubject to the civill ſtate and Laws therof.</p>
+            </div>
+            <div n="23" type="chapter">
+               <head>CHAP. XXIII.</head>
+               <p>Thirdly, wheras I urged a ſpeech of his own, <hi>viz.</hi> that God
+had not proſpered the way of ſeparation, and conceives that I
+underſtood him of outward proſperitie. He affirms the Pu<g ref="char:EOLhyphen"/>ritans
+to have been worſe uſed in <hi>England</hi> then the Separatiſt,
+&amp; thus writes: The meeting of the Separatiſts may be known
+to the Officers in Court and winked at, when the Conventi<g ref="char:EOLhyphen"/>cles
+of the Puritans (as they call them) ſhall be hunted out
+with all diligence, and purſued with more violence then any
+Law can juſtifie,</p>
+               <p>
+                  <hi>Anſ.</hi> Doubtles the contraverſie of God hath bin great with
+this Land,<note place="margin">Gods contro<g ref="char:EOLhyphen"/>verſie for per<g ref="char:EOLhyphen"/>ſecution.</note> that either of both have been ſo violently purſued
+and perſecuted: I beleeve they are both the Witneſſes of ſeve<g ref="char:EOLhyphen"/>rall
+truths of Jeſus Chriſt, againſt an impenitent and unchri<g ref="char:EOLhyphen"/>ſtian
+profeſſion of the name of the Lord Jeſus.</p>
+               <p>Now for their ſuffrings:<note place="margin">The ſuffrings of the Separa<g ref="char:EOLhyphen"/>tiſts and Pu<g ref="char:EOLhyphen"/>ritants in England com<g ref="char:EOLhyphen"/>pared.</note> As the Puritans have not compa<g ref="char:EOLhyphen"/>rably
+ſuffred (as but ſeldome congregating in ſeparate aſſem<g ref="char:EOLhyphen"/>blies
+from the common) ſo have not any of them ſuffred un<g ref="char:EOLhyphen"/>to
+death for the way of Non-conformitie to Ceremonies, <hi>&amp;c.</hi>
+Indeed the worthy witnes Mr. <hi>Vdall</hi> was neere unto death for
+his witnes againſt Biſhops and Ceremonies:<note place="margin">Mr. Vdal.</note> but Mr. <hi>Penry,</hi>
+Mr. <hi>Barrow,</hi>
+                  <note place="margin">Mr. Penry, Mr, Barrow, Mr. Green<g ref="char:EOLhyphen"/>wood.</note> Mr. <hi>Greenwood</hi> followed the Lord Jeſus with their
+Gibbets on their ſhoulders and were hanged with him and for
+him in the way of ſeparation: many more have been condem<g ref="char:EOLhyphen"/>ned
+to die, baniſhed and choaked in priſons, I could produce
+upon occaſion.</p>
+               <p>
+                  <pb n="39" facs="tcp:111071:22"/>
+Again,<note place="margin">Few conſcien<g ref="char:EOLhyphen"/>tious Separa<g ref="char:EOLhyphen"/>tiſts but firſt were Puri<g ref="char:EOLhyphen"/>tans.</note> I beleeve that there hardly hath ever been a conſci<g ref="char:EOLhyphen"/>entious
+Seperatiſt, who was not firſt a Puritan: for (as Mr. <hi>Can</hi>
+hath unan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>werably proved) the grounds and principles of the
+Puritans againſt Biſhops and Ceremonies, and prophanes of
+people pro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſing Chriſt,<note place="margin">The Non-conformiſts grounds in<g ref="char:EOLhyphen"/>force ſepara<g ref="char:EOLhyphen"/>tion.</note> and the neceſſitie of Chriſts flock
+and diſcipline, muſt neceſſarily, if truely followed, lead on to,
+and inforce a ſeparation from ſuch wayes, worſhips, and Wor<g ref="char:EOLhyphen"/>ſhippers,
+to ſeek out the true way of Gods worſhip according
+to Chriſt Jeſus.</p>
+               <p>But what ſhould be the reaſon, (ſince the ſeparatiſt witneſ<g ref="char:EOLhyphen"/>ſeth
+againſt the root of the Church conſtitution it ſelfe, that
+yet he ſhould find (as Mr. <hi>Cotton</hi> ſaith) more favour then the
+Puritan or Non-conformiſt?</p>
+               <p>Doubtles the reaſons are evident:<note place="margin">Moſt of the ſeparation of the lower ſort of people.</note> Firſt moſt of Gods ſer<g ref="char:EOLhyphen"/>vants
+who out of ſight of the ignorance, unbeliefe and pro<g ref="char:EOLhyphen"/>phanes
+of the body of the Nationall Church, have ſeparated
+and durſt not have longer fellowſhip with it; I ſay moſt of
+them have been poore and low,<note place="margin">The poverty of Mr. Ainſ<g ref="char:EOLhyphen"/>worth.</note> and not ſuch gainfull cuſto<g ref="char:EOLhyphen"/>mers
+to the Biſhops, their Courts and Officers.</p>
+               <p>That worthy inſtrument of Chriſts praiſe Mr. <hi>Ainſworth,</hi>
+during ſome time (and ſome time of his great labours in <hi>Hol<g ref="char:EOLhyphen"/>land</hi>)
+lived upon 9. d. <hi>per</hi> week with roots boiled,<note place="margin">The Noncon<g ref="char:EOLhyphen"/>formiſts have been a faire booty for the Biſhops,</note> 
+                  <hi>&amp;c.</hi> Wheras
+on the other ſide ſuch of Gods ſervants as have been Non<g ref="char:EOLhyphen"/>conformiſts
+have had faire eſtates been great perſons, have had
+rich livings and benefices, of which the Biſhops and theirs (like
+greedie Wolves) have made the more deſirable prey.<note place="margin">The Separa<g ref="char:EOLhyphen"/>tiſts have been profeſſed enemies, but the Puritans in many things profeſ<g ref="char:EOLhyphen"/>ſed friends &amp; ſubjects to the Biſhops.</note>
+               </p>
+               <p>Secondly, it is a principle in nature to preferre a profeſſed
+enemie, before a pretended friend. Such as have ſeparated,
+have been lookt at by the Biſhops and theirs, as known and
+profeſſed enemies: wheras the Puritans profeſt ſubjection,
+and have ſubmitted to the Biſhops, their Courts, their Offi<g ref="char:EOLhyphen"/>cers,
+their Common Prayer and Worſhips, and yet (as the Bi<g ref="char:EOLhyphen"/>ſhops
+have well known) with no greater affection, then the Iſ<g ref="char:EOLhyphen"/>raelites
+bare their Egyptian cruel Taskmaſters.</p>
+               <p>He ſaith,<note place="margin">Mr. Cotton.</note> God hath not proſpered the way of Separation
+with peace amongſt themſelves<g ref="char:punc">▪</g> and growth of Grace.</p>
+               <p>
+                  <hi>Anſ.</hi> The want of peace may befall the trueſt Churches of
+the Lord Jeſus at <hi>Antioch, Corinth, Galatia,</hi> who were exerciſed
+with great diſtractions. Secondly, it is a common character of
+a falſe Church, maintained by the Smiths and Cutlers Shop,
+<pb n="40" facs="tcp:111071:23"/>
+to enjoy a quiet calme and peaceable tranquility,<note place="margin">A falſe church may enforce a preſent grea<g ref="char:EOLhyphen"/>ter (though falſe grace) then the true Spouſe of Chriſt Ieſus.</note> none daring
+for feare of civill puniſhment, to queſtion, object, or differ
+from the common roade and cuſtome. Thus ſings that great
+Whore the Antichriſtian Church, <hi>Revel. 18, I ſit as a Queen,
+am no Widow, ſee no ſorrow,</hi> while Chriſts deareſt complaines, <hi>ſhe
+is forſaken, ſits weeping as a Widow, Lam.</hi> 1. Thirdly, Gods people
+in that way, have ſomtimes long enjoyed ſweet peace and ſoul
+contentment in <hi>England, Holland,</hi> New <hi>England,</hi> and other pla<g ref="char:EOLhyphen"/>ces,
+and would not have exchanged a day of ſuch an holy and
+peaceable harmonie for thouſands in the Courts of Princes,
+ſeeing no other,<note place="margin">Gods people have found infinit ſweet<g ref="char:EOLhyphen"/>nes and peace in ſome times of their holy communion.</note> and in ſinceritie ſeeking after the Lord Jeſus.
+And yet I humbly conceive, that as <hi>David</hi> with the Princes
+and 30 thouſand Iſraelites, carrying the Ark on the ſhoulders
+of the Oxen, leaped and danced with great rejoycing, untill
+God ſmote <hi>Vzzah</hi> for his Error and Diſorder, and made a
+breach, and a teaching Monument of <hi>Perez Vzzah,</hi> the breach
+of <hi>Vzzah:</hi> So in like manner all thoſe celebrations of the ſpi<g ref="char:EOLhyphen"/>rituall
+Arke or Ordinances,<note place="margin">Breaches have been and muſt be among all Gods people to make them celebrate the Lords holy ordinances according to due order.</note> which yet I have know, although
+for the preſent accompanied with great rejoycing and try<g ref="char:EOLhyphen"/>umphing;
+yet, as they have not been after the Due Order, ſo
+have they all met with and ſtill muſt a <hi>Pe<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Vzzah,</hi> breaches
+and Diviſions, untill the Lord Jeſus diſcover, direct and incou<g ref="char:EOLhyphen"/>rage
+his ſervants in his own <hi>due holy Order</hi> and appointment.
+And for growth in Grace, notwithſtanding that amongſt all
+ſorts of Gods Witneſſes, ſome falſe brethren creep in as chea<g ref="char:EOLhyphen"/>ters
+and ſpies, and Judaſſes, diſhonouring the name of Chriſt
+Jeſus,<note place="margin">Many grace<g ref="char:EOLhyphen"/>leſſe Iudaſſes amongſt Gods people.</note> and betraying his Witneſſes: yet Sathan himſelfe the
+accuſer of the Saints, cannot but confeſſe that multitudes of
+Gods Witneſſes (reproached with the names of Browniſts, and
+Anabaptiſts) have kept themſelves from the error of the wic<g ref="char:EOLhyphen"/>ked,
+and grow in grace and knowledge of the Lord Jeſus, en<g ref="char:EOLhyphen"/>devouring
+to clenſe <hi>themſelves from all filthines both of fleſh and
+ſpirit,</hi>
+                  <note place="margin">Multitudes of gracions and holy perſons that have profeſſed Se<g ref="char:EOLhyphen"/>paration</note> 
+                  <hi>and to finiſh holines in the feare of God.</hi> I will not make odi<g ref="char:EOLhyphen"/>ous
+and envious compariſons, but deſire that all that <hi>name the
+name of the Lord Ieſus may depart</hi> wholly and for ever from <hi>ini<g ref="char:EOLhyphen"/>quity.</hi>
+               </p>
+            </div>
+            <div n="24" type="chapter">
+               <head>CHAP. XXIIII.</head>
+               <p>Laſtly he addeth,<note place="margin">M. Cotton,</note> That ſuch as erring through ſimplicitie
+and tendernes<g ref="char:punc">▪</g> have grown in grace, have grown alſo to diſcern
+their lawfull liberty in the hearing of the Word from Engliſh
+preachers.</p>
+               <p>
+                  <pb n="41" facs="tcp:111071:23"/>
+                  <hi>Anſ.</hi> I will not queſtion the uprightnes of ſome,<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oure ſorts of back-ſliders from Separa<g ref="char:EOLhyphen"/>tion far from growth in grace.</note> who have
+gone back from many truths of God which they have pro<g ref="char:EOLhyphen"/>feſſed:
+yet mine own experience of 4 ſorts who have back-ſliden,
+I ſhall report, for a warning to all into whoſe hands
+theſe may come to be like <hi>Antipas (Revel.</hi> 2.) a <hi>faithfull witneſſe</hi>
+to the death, to any of the truths of the Lord Jeſus, which he
+ſhall pleaſe to be truſt them with:</p>
+               <p>Firſt I have known no ſmall number of ſuch torn to abſo<g ref="char:EOLhyphen"/>lute
+Familiſme,<note place="margin">Some back-ſliding turn to Familiſme.</note> and under their pretences of great raptures of
+Love deny all obedience to, or ſeeking after the pure Ordinan<g ref="char:EOLhyphen"/>ces
+and appointments of the Lord Jeſus.</p>
+               <p>Secondly,<note place="margin">Some to pro<g ref="char:EOLhyphen"/>phaneſſe.</note> others have laid the raines upon the necks of their
+conſciences, and like the Dog lickt up their vomit of former
+looſnes and prophanes of lip and life; and have been ſo farre
+from growing in grace, that they have turned the grace of
+God into wantonnes.</p>
+               <p>Thirdly,<note place="margin">Some to per<g ref="char:EOLhyphen"/>ſecuting of o<g ref="char:EOLhyphen"/>thers.</note> others backſliding have loſt the beautie and ſhi<g ref="char:EOLhyphen"/>ning
+of a t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder conſcience toward God, and of a mercifull
+compaſſion toward men, becomming moſt fierce perſecutors
+of their own formerly fellow witneſſes, and of any other who
+have differd in conſcience from them.</p>
+               <p>Laſtly,<note place="margin">Some t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lan<g ref="char:EOLhyphen"/>guiſhing in ſorrow and ſadneſſe, &amp;c.</note> others although preſerved from Familiſme, propha<g ref="char:EOLhyphen"/>nes
+and perſecuting of others, yet the leafe of their Chriſtian
+courſe hath withered, the later beautie and ſavour of their
+holines hath not been like their former; and they have confeſt
+&amp; do, their ſin, their weaknes, their bondage, and wiſh they were
+at liberty in their former freedom: and ſome have gone with
+little peace, but ſorrow to their graves, confeſſing to my ſelfe
+and others, <hi>that God never proſpered them in ſoule or body, ſince they
+ſold away his truth,</hi> which once they had bought and made pro<g ref="char:EOLhyphen"/>feſſion
+of it never to ſell it.</p>
+            </div>
+            <div n="25" type="chapter">
+               <head>CHAP. XXV.</head>
+               <p>Yea but (ſaith he) they have grown to diſcern their lawfull
+libertie,<note place="margin">Mr. Cotton.</note> to return to the hearing of the Word from Engliſh
+preachers.</p>
+               <p>
+                  <hi>Anſ.</hi> Here I might ingage my ſelfe in a contraverſie, which
+neither this Treatiſe will permit;<note place="margin">Mr. Cans an<g ref="char:EOLhyphen"/>ſwer to Mr, Robinſons Liberty of hearing.</note> nor is there need, ſince it
+hath pleaſed the Father of lights to ſtirre up the ſpirit of a
+faithfull Witnes of his truth in this particular, Mr. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ann,</hi> to
+make a large and faithfull reply to a Book, Printed in Mr.
+<pb n="42" facs="tcp:111071:24"/>
+                  <hi>Robinſons</hi> name, tending to prove ſuch a lawfull Liberty.</p>
+               <p>For ſuch excellent and worthy perſons whom Mr. <hi>Cotton</hi>
+here intends by the name of Engliſh preachers, I acknowledge
+my ſelfe unworthy to hold the candle to them:<note place="margin">Mr Cottons confeſsion concerning the miniſtry.</note> yet I ſhall
+humbly preſent what Mr. <hi>Cotton</hi> himſelfe profeſſeth in 3 par<g ref="char:EOLhyphen"/>ticulars:</p>
+               <p>Firſt concerning this title Engliſh preachers.</p>
+               <p>Secondly, hearing the Word from ſuch Engliſh preachers.</p>
+               <p>Thirdly, the lawfull calling of ſuch to the Miniſtry or ſer<g ref="char:EOLhyphen"/>vice,
+according to Chriſt Jeſus.</p>
+               <p>For the firſt he acknowledgeth,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> that the ordinarie Miniſters
+of the Goſpel are Paſtors, Teachers, Biſhops, Overſeers, Elders,
+and that their proper worke is to feed and govern, a truly con<g ref="char:EOLhyphen"/>verted
+holy and godly people, gathered into a flock or Church
+eſtate, and not properly preachers to convert, beget, make Diſ<g ref="char:EOLhyphen"/>ciples,<note place="margin">Matth. 28.</note>
+which the Apoſtles and Evangeliſts profeſſedly were.
+Now then that man that profeſſeth himſelfe a Miniſter,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and
+profeſſeth to feed a Flock or Church, with the Ordinances of
+Word and Prayer, he muſt needs acknowledge that his pro<g ref="char:EOLhyphen"/>per
+worke is not to preach for converſion,<note place="margin">Preachers and Paſtor f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re different,</note> which is moſt pre<g ref="char:EOLhyphen"/>poſterous
+amongſt a converted Chriſtian people, fed up with
+Ordinances in Church eſtate: So that according to Mr. <hi>Cot<g ref="char:EOLhyphen"/>tons</hi>
+confeſſion Engliſh preachers are, not Paſtors, Teachers,
+Biſhops, Elders, but preachers of glad news (Evangeliſts) men
+ſent to convert and gather Churches (Apoſtles) embaſſadors,
+trumpeters with Proclamation from the King of Kings, to
+convert, ſubdue bring in rebellious unconverted, unbeleeving,
+unchriſtian ſoules to the obedience and ſubjection of the Lord
+Jeſus.</p>
+               <p>I readily confeſſe that at the Paſtors (or Shepheards) feeding
+of his flock,<note place="margin">Converſion in a Church ac<g ref="char:EOLhyphen"/>cidentall.</note> and the Prophets prohecying in the Church, an
+unbeleever coming in is convinced, falls on his face and ac<g ref="char:EOLhyphen"/>knowledgeth
+God to be there: yet this is accidentall that any
+unbeleever ſhould come in;<note place="margin">Perſonall re<g ref="char:EOLhyphen"/>pentance <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ought in thouſands be godly perſon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in Popiſh mi<g ref="char:EOLhyphen"/>niſtries.</note> and the Paſtors worke is to feed
+his Flock, <hi>Acts</hi> 20. and prophecie is not for unbeevers, but for
+them that beleeve to edefie, exhort and comfort the Church,
+1 <hi>Cor. 34. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 22.</hi>
+               </p>
+               <p>I alſo readily acknowledge that it hath pleaſed God to work
+a perſon <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> repentance in the hearts of thouſands in <hi>Germanie,
+England,</hi> Low Countries, <hi>France, Scotland, Ireland,</hi> &amp;c. Yea and
+<pb n="43" facs="tcp:111071:24"/>
+who knows but in <hi>Italy, Spain, Rome,</hi> not only by ſuch men, who
+decline the name of Biſhops, Prieſts Deacons (the conſtituted
+Miniſtry of <hi>England</hi> hitherto) but alſo by ſuch as have owned
+them, as <hi>Luther</hi> remaining a Monke, and famous holy men
+remaining and burning Lord Biſhops.<note place="margin">To preach mainly for converſion of that people, to whom a man ſtands Shepheard as to a converted people and Flock of Chriſt, a dangerous diſorder.</note> But all this hath been
+under the notion of Miniſters feeding their flocks, not of prea<g ref="char:EOLhyphen"/>chers
+ſent to convert the unconverted and unbeleeving.</p>
+               <p>This paſſage I preſent for 2 Reaſons: Firſt becauſe ſo ma<g ref="char:EOLhyphen"/>ny
+excellent and worthy perſons mainly preach for converſi<g ref="char:EOLhyphen"/>on,
+as concieving (and that truly) the body of the people of
+<hi>England</hi> to be in a naturall and unregenerate eſtate: and yet
+account they themſelvs fixed and conſtant Officers and Mini<g ref="char:EOLhyphen"/>ſters
+to particular Pariſhes or congregations unto whom they
+alſo adminiſter the holy things of God, though ſometimes
+few, and ſometimes none regenerate or new borne have been
+found amongſt them: which is a matter of high concernment
+touching the Name of the Lord Jeſus Chriſt,<note place="margin">Gods people muſt ſeeke af<g ref="char:EOLhyphen"/>ter a miniſtry ſent by Chriſt to convert.</note> and the ſoules
+of men. Secondly that in theſe great Earthquakes, wherein it
+pleaſeth God to ſhake foundations civill and ſpirituall, ſuch a
+Miniſtry of Chriſt Jeſus may be ſought after, whoſe proper
+worke is preaching, for converting and gathering of true peni<g ref="char:EOLhyphen"/>tents
+to the fellowſhip of the Son of God.</p>
+            </div>
+            <div n="26" type="chapter">
+               <head>CHAP. XXVI.</head>
+               <p>The ſecond thing which Mr. <hi>Cotton</hi> himſelfe hath profeſt
+concerning Engliſh preachers is,<note place="margin">Mr. Cotton.</note> that although the Word, yet
+not the Seales may be received from them: becauſe (ſaith he)
+there is no communion in hearing, and the Word is to be
+preached to All, but the ſeales he conceives (and that rightly)
+are prophaned in being diſpenſed to the ungodly, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Mr. <hi>Cotton</hi> himſelfe maintaineth,<note place="margin">The communi<g ref="char:EOLhyphen"/>on or fellow<g ref="char:EOLhyphen"/>ſhip of the word taught in a Church eſtate.</note> that the diſpenſing
+of the Word in a Church eſtate, is Chriſts feeding of his flock
+<hi>Cant.</hi> 1. 8. Chriſts kiſſing of his Spouſe or Wife, <hi>Cant.</hi> 1. 2.
+Chriſts embracing of his Spouſe in the mariage bed, <hi>Cant.</hi> 1.
+16. Chriſts nurſing of his children at his wives breſt, <hi>Cant.</hi> 4.
+and is there no communion between the Shepheard and his
+Sheep? the Husband and his Wife in chaſt kiſſes and embra<g ref="char:EOLhyphen"/>ces
+and the Mother and her Child at the breſt?</p>
+               <p>Beſide he confeſſeth, that that Fellowſhip in the Goſpel,
+<hi>Phil.</hi> 1. 3. is a fellowſhip or communion in the Apoſtles do<g ref="char:EOLhyphen"/>ctrine,
+communitie, breaking of bread, and prayer, in which
+<pb n="44" facs="tcp:111071:25"/>
+the firſt Church continued, <hi>Acts</hi> 2. 46. All which overthrows
+that Doctrine of a lawfull participation of the Word and
+Prayer in a Church eſtate, where it is not lawfull to commu<g ref="char:EOLhyphen"/>nicate
+in the breaking of bread or ſeales.</p>
+            </div>
+            <div n="27" type="chapter">
+               <head>CHAP. XXVII.</head>
+               <p>Thirdly concerning the lawfull Commiſſion or calling of
+Engliſh preachers.</p>
+               <p>Mr. <hi>Cotton</hi> himſelfe and others moſt eminent in New <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+have freely confeſt,<note place="margin">Eminent Mi<g ref="char:EOLhyphen"/>niſters ſo ac<g ref="char:EOLhyphen"/>counted in old England, pro<g ref="char:EOLhyphen"/>feſſe them<g ref="char:EOLhyphen"/>ſeves private Chriſtians in new England.</note> that notwithſtanding their former
+profeſſion of Miniſtry in Old <hi>England,</hi> yet in New <hi>England</hi>
+(untill they received a calling from a particular Church, that
+they were but private Chriſtians.</p>
+               <p>Secondly, that Chriſt Jeſus hath appointed no other cal<g ref="char:EOLhyphen"/>ling
+to the Miniſtrie, but ſuch as they practice in New Eng<g ref="char:EOLhyphen"/>land,
+and therfore conſequently that all other which is not
+from a particular Congregation of godly perſons, is none of
+Chriſts.</p>
+               <p>As firſt a calling or commiſſion received from the Biſhops.<note place="margin">Falſe callings or commiſſi<g ref="char:EOLhyphen"/>ons for the Miniſtry.</note>
+               </p>
+               <p>Secondly from a Pariſh of naturall and <hi>unregenerate</hi> perſons.</p>
+               <p>Thirdly, from ſome few godly perſons, yet remaining in
+Church fellowſhip after the Pariſh way.</p>
+               <p>Laſtly, the eminent gifts and abilities are but Qualifications
+fitting and preparing for a call or Office according to 1 <hi>Tim. 3.
+Tit.</hi> 1. All which premiſes duly conſidered, I humbly deſire of
+the Father of Lights, that Mr. <hi>Cotton,</hi> and all that feare God
+may try what will abide the firie triall in this <hi>particalar,</hi> when
+the Lord Jeſus ſhall be <hi>revealed in flaming fire,</hi> &amp;c.</p>
+            </div>
+            <div n="28" type="chapter">
+               <head>CHAP. XXVIII.</head>
+               <p>The cloſe of his Lette<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is an Anſwer to a paſſage of mine,<note place="margin">M. Cotton.</note>
+which he repeateth in an Objection thus: But this you feare
+is to condemn the witneſſes of Jeſus (the Separate Churches
+in <hi>London,</hi> and elſwhere) and our jealous God will viſit us for
+ſuch arrearages: yea the curſe of the Angel to <hi>Meros</hi> will fall
+upon us, <hi>becauſe we come not forth to help Jehovah againſt the migh<g ref="char:EOLhyphen"/>ty:</hi>
+we pray not for them, we come not at them (but at Pariſhes
+frequently) yea we reproach and cenſure them.</p>
+               <p>To which he anſwereth, that neither Chriſt nor his Apo<g ref="char:EOLhyphen"/>ſtles
+after him, nor Prophets before him ever delivered that
+way. That they feare not the Angels curſe, becauſe it is not to
+help <hi>Iehovah</hi> but Sathan, to withdraw people from the Pari<g ref="char:EOLhyphen"/>ſhes
+<pb n="45" facs="tcp:111071:25"/>
+where they have found more preſence of Chriſt, and evi<g ref="char:EOLhyphen"/>dence
+of his Spirit then in ſeparated Churches: That they
+pray not for them becauſe they cannot pray in faith
+for a bleſſing upon their Separation: and that it is little com<g ref="char:EOLhyphen"/>fort
+to heare of ſeparated Churches, as being the inventions of
+men, and blames them that being deſirous of Reformation,
+they ſtumble not only at the Inventions of men, but for their
+ſakes at the Ordinances of the Lord, becauſe they ſeparate not
+only from the Pariſhes, but from the Church at <hi>Plimmouth,</hi>
+and of that wherof Mr. <hi>Lathrop</hi> was Paſtor, who (as he ſaith)
+not only refuſe all the Inventions of men, but chooſe to ſerve
+the Lord in his own Ordinances. Only, laſtly he profeſſeth
+his inward ſorrow that my ſelf helpe erring, though zealous
+ſoules againſt the mighty Ordinances of the Lord, which
+whoſoever ſtumble at ſhall be broken,<note place="margin">The garden of the chur<g ref="char:EOLhyphen"/>ches of both old and new Teſtament, planted with an hedge or wall of ſepa<g ref="char:EOLhyphen"/>ration from the world.</note> becauſe whoſoever will
+not kiſſe the Sonne (that is, will not heare and embrace the
+words of his mouth) ſhall periſh in their way.</p>
+               <p>
+                  <hi>Anſ.</hi> However Mr. <hi>Cotton</hi> beleeves and writes of this point,
+yet hath he not duly conſidered theſe following particulars:</p>
+               <p>Firſt the faithfull labours of many Witneſſes of <hi>Ieſus Chriſt,</hi>
+extant to the world, abundantly proving, that the Church of
+the Jews under the Old Teſtament in the type, and the <hi>Church</hi>
+of the Chriſtians under the New Teſtament in the Antitype,
+were both ſeparate from the world;<note place="margin">When Gods people neglect to maintain that hedge or wall, God hath turned his garden into a wil<g ref="char:EOLhyphen"/>derneſſe.</note> and that when they have
+opened a gap in the hedge or wall of Separation between the
+Garden of the Church and the Wildernes of the world, God
+hath ever broke down the wall it ſelfe, removed the Candle<g ref="char:EOLhyphen"/>ſtick,
+<hi>&amp;c.</hi> and made his Garden a Wilderneſſe, as at this day.
+And that therfore if he will ever pleaſe to reſtore his Garden
+and Paradice again, it muſt of neceſſitie be walled in peculi<g ref="char:EOLhyphen"/>arly
+unto himſelfe from the world, and that all that ſhall be
+ſaved out of the world are to be tranſplanted out of the Wil<g ref="char:EOLhyphen"/>dernes
+of the world,<note place="margin">The Non<g ref="char:EOLhyphen"/>conformiſts grounds ne<g ref="char:EOLhyphen"/>ceſſarily in<g ref="char:EOLhyphen"/>force a ſepa<g ref="char:EOLhyphen"/>ration of the Church from the unclean in clean and holy things.</note> and added unto his Church or Garden.</p>
+               <p>Secondly, that all the grounds and principles leading to op<g ref="char:EOLhyphen"/>poſe
+Biſhops, Ceremonies, Common Prayer, proſtitution of
+the Ordinances of Chriſt to the ungodly and to the true pra<g ref="char:EOLhyphen"/>ctiſe
+of Chriſts own Ordinances, doe neceſſarily (as before I
+intimated, and Mr. <hi>Ca<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> hath fully proved) conclude a ſepa<g ref="char:EOLhyphen"/>ration
+of holy from unholy, penitent from impenitent, godly
+from ungodly, <hi>&amp;c.</hi> and that to frame any other building upon
+<pb n="46" facs="tcp:111071:26"/>
+ſuch grounds and foundations, is no other then to raiſe the
+form of a ſquare houſe upon the Keele of a Ship, which will
+never prove a ſoul ſaving true Arke or Church of Chriſt Je<g ref="char:EOLhyphen"/>ſus,
+according to the Patterne.</p>
+               <p>Thirdly the multitudes of holy and faithfull men and wo<g ref="char:EOLhyphen"/>men,
+who ſince Q. <hi>Maries</hi> dayes have witneſſed this truth by
+writing diſputing and in ſuffring loſſe of <hi>goods</hi> and <hi>friends,</hi>
+                  <note place="margin">The great ſuffe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing for this cauſe.</note> in
+<hi>impreſonment, baniſhments, death,</hi> &amp;c. I confeſſe the Nonconfor<g ref="char:EOLhyphen"/>miſts
+have ſuffred alſo: but they that have ſuffred for this
+cauſe, have farre exceeded, in not only witneſſing to thoſe
+grounds of the Non-conformiſts but to thoſe Truths alſo, the
+unavoidable concluſions of the Non-conformiſts principles.</p>
+               <p>Fourthly, what is that which Mr. <hi>Cotton</hi> and ſo many hun<g ref="char:EOLhyphen"/>dreths
+fearing God in New <hi>England</hi> walk in but a way of ſepa<g ref="char:EOLhyphen"/>ration?<note place="margin">Mr. Cotton<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and others zealous pra<g ref="char:EOLhyphen"/>ctice of ſepa<g ref="char:EOLhyphen"/>ration in New England.</note>
+Of what matter doe they profeſſe to conſtitute their
+Churches, but of true godly perſons? In what form doe they
+caſt this matter, but by a <hi>voluntary uniting,</hi> or <hi>adding</hi> of ſuch
+godly perſons, whom they carefully examine, and cauſe to
+make a <hi>publike confesſion</hi> of <hi>ſinne,</hi> and <hi>profeſſion</hi> of their <hi>knowledge,</hi>
+and <hi>grace</hi> in Chriſt? Nay when other Engliſh have attempted
+to ſet up a Congregation after the Pariſhionall way, have they
+not been ſuppreſt? Yea have they not profeſſedly and lately
+anſwered many worthy perſons, whom they account godly
+Miniſters and people that they could not permit them to live
+in the ſame Common-wealth together with them, if they ſet
+up any other Church and Worſhip then what themſelvs pra<g ref="char:EOLhyphen"/>ctiſe?<note place="margin">Mr. Cotton allowing li<g ref="char:EOLhyphen"/>bertie to fre<g ref="char:EOLhyphen"/>quent thoſe pariſhes in Old England: which pariſhes be himſelfe perſecutes in New England</note>
+Let their own ſoules, and the ſoules of others ſeriouſly
+ponder in the feare of God, what ſhould be the Reaſon why
+themſelves ſo practiſing, ſhould perſecute others for not lea<g ref="char:EOLhyphen"/>ving
+open a gap of Liberty to eſcape <hi>perſecution</hi> and the Croſſe
+of Chriſt, by frequenting the Pariſhes in Old <hi>England,</hi> which
+Pariſhes themſelves <hi>perſecute</hi> in New England, and will not
+permit them to breath in the common aire amongſt them.</p>
+               <p>Fifthly in the Pariſhes (which Mr. <hi>Cotton</hi> holds but inventi<g ref="char:EOLhyphen"/>ons
+of men) however they would have liberty to frequent the
+Worſhip of the Word,<note place="margin">A great my<g ref="char:EOLhyphen"/>ſtery in the e<g ref="char:EOLhyphen"/>ſcaping of the croſſe of Chriſt.</note> yet they ſeparate from the Sacraments:
+and yet according to Mr. <hi>Cottons</hi> own principles (as before)
+there is as true Communion in the Miniſtration of the word
+in a Church eſtate as in the ſeales: What myſtery ſhould be
+in this, but that here alſo the Croſſe or Gibbet of Chriſt may
+<pb n="47" facs="tcp:111071:26"/>
+be avoyded in a great meaſure, if perſons come to Church, <hi>&amp;c</hi>
+               </p>
+               <p>Laſtly, however he ſaith, <hi>he hath not found ſuch preſence of
+Christ, and evidence of his Spirit in ſuch Churches, as in the Pariſhes:</hi>
+What ſhould be the reaſon of their great rejoycings and boa<g ref="char:EOLhyphen"/>ſtings
+of their own Separations in New England,<note place="margin">The New Engliſh Chur<g ref="char:EOLhyphen"/>ches <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> by ſome to <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> purer then the firſt eſtabli<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ed by the A<g ref="char:EOLhyphen"/>poſtles.</note> inſomuch
+that ſome of the moſt eminent amongſt them have affirmed,
+That even the Apoſtles Churches were not ſo pure? Surely
+if the ſame New Engliſh Churches were in Old England, they
+could not meet without Perſecution, which therfore in Old
+England they avoid by frequenting the way of Church-wor<g ref="char:EOLhyphen"/>ſhip
+(which in New England they Perſecute) the Pariſhes.</p>
+               <p>Upon theſe conſiderations how can Mr. <hi>Cotton</hi> be offended
+that I ſhould help (as he calls them) any zealous ſoules, not a<g ref="char:EOLhyphen"/>gainſt
+the mighty Ordinances of the Lord Jeſus, but to ſeek
+after the Lord Jeſus without halting?<note place="margin">The reforma<g ref="char:EOLhyphen"/>tion deſired now had been accounted He<g ref="char:EOLhyphen"/>reſie in Ed. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his daye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> Yea why ſhould Mr.
+<hi>Cotton,</hi> or any deſirous to practice Reformation, kindle a fire of
+Perſecution againſt ſuch zealous ſoules, eſpecially conſidering
+that themſelves, had they ſo inveighed againſt Biſhops, Com<g ref="char:EOLhyphen"/>mon
+Prayer, <hi>&amp;c.</hi> in Edward the 6. his dayes had been accoun<g ref="char:EOLhyphen"/>ted
+as great Hereticks, in thoſe Reforming times as any now
+can be in theſe: yet would it have been then<g ref="char:punc">▪</g> and ſince hath it
+been great oppreſſion and Tyranny to perſecute their con<g ref="char:EOLhyphen"/>ſciences,
+and ſtill will it be for them to perſecute the conſci<g ref="char:EOLhyphen"/>ences
+of others in Old or New England.</p>
+               <p>How can I better end then Mr. <hi>Cotton</hi> doth, by warning, that
+all that will not kiſſe the Son (that is, heare and embrace the
+words of his mouth) ſhall periſh in their way,<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> unjuſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> whereſoe<g ref="char:EOLhyphen"/>ver.</note> 
+                  <hi>Pſal.</hi> 2. 12. And
+I deſire Mr. <hi>Cotton</hi> and every ſoule to whom theſe lines may
+come, ſeriouſly to conſider, in this Contraverſie, if the Lord
+Jeſus were himſelfe in perſon in Old or New England, what
+Church, what Miniſtry, what Worſhip, what Government
+he would ſet up, and what perſecution he would practice
+toward them that would not receive Him?</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
